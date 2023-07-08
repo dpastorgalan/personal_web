@@ -14,8 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Científico Titular
-role: Assistant Professor (助教) of Tectonics
+role: Científico Titular and Assistant Professor (助教) of Tectonics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -24,7 +23,7 @@ organizations:
   - name: Tohoku University
     url: "" 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plate tectonics, paleogeogrphy and geodynamics.
 
 # Interests to show in About widget
 interests:
