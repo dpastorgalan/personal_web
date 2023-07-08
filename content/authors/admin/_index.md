@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Daniel Pastor-Galán
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Daniel
+last_name: Pastor-Galán
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Consejo Superior de Investigaciones Científicas (CSIC)
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
