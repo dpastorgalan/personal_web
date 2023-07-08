@@ -27,9 +27,11 @@ bio: My research interests include plate tectonics, paleogeogrphy and geodynamic
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Tectonics
+  - Paleogeography
+  - Structural Geology
+  - Paleomagnetism
+  - Earth History
 
 # Education to show in About widget
 education:
@@ -80,6 +82,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+The Earth has written its own history in thousands of rock pages, the geological record, which contains evidence of the evolution and interactions of continents, oceans, atmosphere, and biosphere. Despite the rock archive is really dismembered, scattered and hidden in remote places or deeply buried, gathering the pieces together is our only opportunity to reveal the history of our planet, our history. I am a researcher who works in structural geology, plate tectonics, paleogeography and Earth history combining field geology, paleomagnetism, isotopic methods (U-Pb, Ar-Ar, Lu-Hf, Sm-Nd, O and H) and modeling (numerical and analog).
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I completed my Ph.D. at Universidad de Salamanca (Spain) in 2012. Since then and until 2016 I was a postdoctoral fellow at Utrecht University (The Netherlands). Later I obtained the prestigious JSPS postdoctoral fellow (Japan Society for Promotion of Science grant, successful rate <10%) to study the tectonic evolution of the Paleotethys and Panthalassa oceans interface during the Pangea amalgamation.
 {style="text-align: justify;"}
