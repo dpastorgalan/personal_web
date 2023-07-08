@@ -14,13 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Científico Titular
+role: Assistant Professor (助教) of Tectonics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Consejo Superior de Investigaciones Científicas (CSIC)
-    url: https://www.stanford.edu/
-
+    url: ""
+  - name: Tohoku University
+    url: "" 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
