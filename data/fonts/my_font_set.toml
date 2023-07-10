@@ -1,5 +1,5 @@
 # Font style metadata
-name = "default"
+name = "my_font_set"
 
 # Optional Google font URL
 google_fonts = "family=Montserrat+Alternates:wght@400;700&family=Nunito:wght@400;700&family=Roboto+Mono"
