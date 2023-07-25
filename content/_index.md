@@ -220,8 +220,8 @@ sections:
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: test@example.org
-      phone: +34 680534170
-      appointment_url: 'https://calendly.com'
+    #  phone: +34 680534170
+    #  appointment_url: 'https://calendly.com'
       address:
         street: 450 Serra Mall
         city: Stanford
@@ -230,9 +230,9 @@ sections:
         country: United States
         country_code: US
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -258,12 +258,4 @@ sections:
           captcha: false
     design:
       columns: '2'
-  - block: logos
-    content:
-      title: Funded by
-      subtitle: ''
-      # Path to the logo images within the `assets/media/` folder
-      logo_folder: logos
-    design:
-      columns: '2'  
 ---
