@@ -16,10 +16,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
+    local_business_type: 'Geoscience Research'
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Daniel Pastor-Galán's academic resume theme powered by Wowchemy website builder.'
+    twitter: 'HotspotTrack'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
