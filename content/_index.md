@@ -44,6 +44,30 @@ sections:
           date_start: '2021-05-01'
           date_end: '2023-11-01'
           description: ''
+        - title: Assistant Professor (助教) of Tectonics
+          company: Tohoku University
+          company_url: ''
+          company_logo: ''
+          location: Sendai
+          date_start: '2019-06-01'
+          date_end: '2023-11-01'
+          description: ''
+        - title: JSPS Fellow
+          company: Tohoku University
+          company_url: ''
+          company_logo: ''
+          location: Sendai
+          date_start: '2016-09-29'
+          date_end: '2018-09-29'
+          description: ''
+        - title: Postdoctoral Fellow
+          company: Utrecht University
+          company_url: ''
+          company_logo: ''
+          location: Utrecht
+          date_start: '2013-01-01'
+          date_end: '2016-07-31'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
