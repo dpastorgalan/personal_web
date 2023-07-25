@@ -258,4 +258,12 @@ sections:
           captcha: false
     design:
       columns: '2'
+  - block: logos
+    content:
+      title: Funded by
+      subtitle: ''
+      # Path to the logo images within the `assets/media/` folder
+      logo_folder: logos
+    design:
+      columns: '2'  
 ---
