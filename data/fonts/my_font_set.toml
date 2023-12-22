@@ -2,12 +2,12 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "family=Montserrat+Alternates:wght@400;700&family=Nunito:wght@400;700&family=Roboto+Mono"
+google_fonts = "family=Montserrat:wght@400;700&family=Lora:wght@400;700&family=Roboto+Mono"
 
 # Font families
-heading_font = "Montserrat Alternates"
-body_font = "Nunito"
-nav_font = "Nunito"
+heading_font = "Montserrat"
+body_font = "Lora"
+nav_font = "Lora"
 mono_font = "Roboto+Mono"
 
 # Font size
