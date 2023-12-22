@@ -6,8 +6,9 @@ authors:
 - Arlo B. Weil
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "PhD chapter"
+- ""
+- ""
 date: "2011-01-01T00:00:00Z"
 doi: "10.1016/j.tecto.2011.05.005"
 

@@ -6,8 +6,8 @@ authors:
 - Kieran F. Mulchrone
 - Patrick Meere
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "MSC Thesis"
+- ""
 date: "2009-01-01T00:00:00Z"
 doi: "10.1016/j.jsg.2009.08.005"
 
