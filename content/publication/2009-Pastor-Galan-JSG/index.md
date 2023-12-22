@@ -1,5 +1,5 @@
 ---
-title: "Determinación de la deformación finita en dos secciones distintas (Talas Ala Tau, Kirguistán y Zona Cantábrica, NO de España). Relaciones entre litología y deformación interna"
+title: "Factors affecting finite strain estimation in low-grade, low-strain clastic rocks"
 authors:
 - admin
 - Gabriel Gutiérrez-Alonso
@@ -8,8 +8,8 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2008-01-01T00:00:00Z"
-doi: ""
+date: "2009-01-01T00:00:00Z"
+doi: "10.1016/j.jsg.2009.08.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
@@ -21,10 +21,10 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Studia Geologica Salmanticensia, 44 (2), p 221-258"
-publication_short: "Stud. Geol. Salman., 44 (2), p 221-258"
+publication: "Journal of Structural Geology 31(12) pp. 1586-1596, DOI:10.1016/j.jsg.2009.08.005"
+publication_short: "Journal of Structural Geology 31(12) pp. 1586-1596"
 
-abstract: Gracias a los métodos computerizados desarrollados por investigadores del University College of Cork se ha podido caracterizar de forma generalizada y precisa la deformación interna en dos zonas cinturones de pliegues y cabalgamientos formados en distinto contexto geodinámico":" Talas Ala Tau (Kirguistán) y el Manto de Somiedo y Antiforme del Narcea (Zona Cantábrica y la transición a la Zona Asturoccidental-Leonesa, NO de España). Esta caracterización ha revelado tasas de deformación bajas en ambas regiones y los patrones en la distribución de ésta. Además ha permitido el estudio de las relaciones entre la deformación medida, los distintos componentes litológicos y cada uno de los métodos utilizados, con el objetivo de conocer la posible influencia de estos dos últimos sobre las medidas de deformación finita realizadas. Los resultados obtenidos con ambos resultaron ser comparables y muestran la inexistencia de un control litológico sobre la deformación interna entre los tipos de roca estudiados deformados en condiciones de tasas bajas de metamorfismo y deformación finita.
+abstract: The computer strain analysis methods SAPE, MRL and DTNNM have permitted the characterization of finite strain in two different regions with contrasting geodynamic scenarios; (1) the Talas Ala Tau (Tien Shan, Kyrgyzs Republic) and (2) the Somiedo Nappe and Narcea Antiform (Cantabrian to West Asturian-Leonese Zone boundary, Variscan Belt, NW of Iberia). The performed analyses have revealed low-strain values and the regional strain trend in both studied areas. This study also investigates the relationship between lithology (grain size and percentage of matrix) and strain estimates the two methodologies used. The results show that these methods are comparable and the absence of significant finite strain lithological control in rocks deformed under low metamorphic and low-strain conditions.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -35,8 +35,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: https://revistas.usal.es/index.php/0211-8327/article/view/1326
+url: https://www.sciencedirect.com/science/article/pii/S0191814109001783
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [Structural Geology]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
