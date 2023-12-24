@@ -212,7 +212,7 @@ sections:
       title: Team
       subtitle: 'Colleagues, research buddies, friends'
       text: |-
-        [Check the team!](./post/team/).)
+        [Check the team!](./post/team/)
     design:
       columns: '1'
   - block: tag_cloud

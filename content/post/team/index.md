@@ -47,7 +47,7 @@ tags:
 
 
 ## Former PhD Students
-[Ariuntsegtseg Ganbat](./post/team/2019-Ari/)
+[Ariuntsegtseg Ganbat](./2019-Ari/)
 
 ## MSc and BSc Students
 
