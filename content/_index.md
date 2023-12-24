@@ -230,14 +230,14 @@ sections:
         country: Spain
         country_code: ES
       directions: The old morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
-      map:
-        provider: 'mapnik'
-        api_key: ''
-        zoom: 15
-        content:
-          coordinates:
-            latitude: '37.4275'
-            longitude: '-122.1697'
+    map:
+     provider: 'mapnik'
+      api_key: ''
+      zoom: 15
+      content:
+        coordinates:
+          latitude: '37.4275'
+          longitude: '-122.1697'
 #       office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
