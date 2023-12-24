@@ -1,71 +1,70 @@
-+++
-title = "Supercontinent and Superplate?"
-date = 2016-04-16
-draft = false
+---
+title: "Supercontinent and Superplate?"
+authors:
+- admin
+- Rob van der Voo
+date: "2016-04-16T00:00:00Z"
+doi: ""
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Pastor-Galán", "Rob van der Voo"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
-# 0 = Poster to be created
-publication_types = ["0"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Poster; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["4"]
 
-# Publication name and optional abbreviated version.
-publication = "Prize awarded poster from NAC14 (2016)"
-publication_short = ""
+# Publication name and optional abbreviated publication name.
+publication: "Prize awarded poster from NAC14 (2016)"
+publication_short: ""
 
-# Abstract and optional shortened version.
-abstract = "This poster won the NAC14 (National Earth Sciences congress of the Netherlands) poster award in 2016"
-abstract_short = ""
-image_preview = ""
+abstract: ""
 
-# Is this a selected publication? (true/false)
-selected = false
+# Summary. An optional shortened abstract.
+summary: NAC2016 poster. It won a poster award in the Dutch Earth Sciences conference.
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-# projects = [""]
+tags:
+- Orocline, curved niuntain belts, Supercontinents, Pangea
+featured: false
 
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Pangea", "Supercontinent", "Orocline"]
-
-# Links (optional).
-#url_pdf = "#"
-#url_preprint = "#"
-#url_code = "#"
-#url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
-#url_video = "#"
-url_poster = "/featured.png"
-#url_source = "#"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Link", url = ""}]
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = true
+links:
+- name: ''
+  url: ''
+url_pdf: ''
+url_code: ''
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
- # Caption (optional)
-   caption = "Image credit: [**Poster NAC**](/publication/poster/2016NAC14/featured.png)"
+image:
+  caption: 'The Poster'
+  focal_point: ""
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-  
-[header]
-image = ""
-caption = ""
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- Curved Mountain Belts
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
