@@ -47,7 +47,7 @@ tags:
 
 
 ## Former PhD Students
-[Ariuntsegtseg Ganbat](./2019-Ari/)
+[Ariuntsegtseg Ganbat](/project/2019-Ari/)
 
 ## MSc and BSc Students
 
