@@ -35,7 +35,11 @@ abstract: A suite of post-tectonic granitoids (mostly peraluminous, broadly I-ty
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Geochronology
+- Zircon
+- Mantle
+- Granitoids
+
 featured: false
 
 # links:

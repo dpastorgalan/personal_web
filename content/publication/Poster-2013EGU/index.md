@@ -27,7 +27,10 @@ abstract: ""
 summary: EGU2013 poster. Inspired in Mondrian art and based on the featured publication of Pastor-Galán et al., 2012.
 
 tags:
-- Orocline, curved niuntain belts, Structural Geology
+- Orocline
+- Curved Mountain Belts
+- Structural Geology
+
 featured: false
 
 links:

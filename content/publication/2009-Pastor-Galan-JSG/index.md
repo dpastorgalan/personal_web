@@ -30,7 +30,8 @@ abstract: The computer strain analysis methods SAPE, MRL and DTNNM have permitte
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Structural Geology
+
 featured: false
 
 # links:

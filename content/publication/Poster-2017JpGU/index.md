@@ -23,7 +23,9 @@ abstract: The Variscan mountain belt in Iberia defines a large “S” shape wit
 # Summary. An optional shortened abstract.
 summary: JpGU 2017 poster
 tags:
-- Remagnetization, curved niuntain belts, Pyrrhotite
+- Remagnetization
+- Curved Mountain Belts
+
 featured: false
 
 links:

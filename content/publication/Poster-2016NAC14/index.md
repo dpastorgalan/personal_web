@@ -25,7 +25,10 @@ abstract: ""
 summary: NAC2016 poster. It won a poster award in the Dutch Earth Sciences conference.
 
 tags:
-- Orocline, curved niuntain belts, Supercontinents, Pangea
+- Orocline
+- Curved Mountain Belts
+- Supercontinents
+- Pangea
 featured: false
 
 links:
