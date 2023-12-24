@@ -213,9 +213,9 @@ sections:
       columns: '2'
   - block: contact
     id: contact
-    content: The fantastic beast and where to find me
+    content: 
       title: Contact
-      subtitle:
+      subtitle: The fantastic beast and where to find me
       text: |-
         My office hours may vary through the year due to the hybrid work from home/office of the CSIC. Check on my mail if you are planning to visit at least one day in advanced!
       # Contact (add or remove contact options as necessary)
