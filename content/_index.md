@@ -230,8 +230,8 @@ sections:
         country: Spain
         country_code: ES
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '40.443778130903205'
+        longitude: '-3.7229560010646727'
       directions: The old morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
 #       office_hours:
 #        - 'Monday 10:00 to 13:00'
