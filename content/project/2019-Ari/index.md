@@ -18,7 +18,7 @@ links:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url: www.scholar.google.com/citations?user=OaUVw7YAAAAJ&hl=en
+url: ''
 url_code: ''
 url_pdf: ''
 url_slides: ''
