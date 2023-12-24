@@ -210,9 +210,9 @@ sections:
   - block: markdown
     content:
       title: Team
-      subtitle: 'Colleagues, research buddies, friends [Check the team!](./post/team/)'
+      subtitle: '[Colleagues, research buddies, friends](./post/team/)'
       text: |-
-        {{< gallery album="team" >}}
+        {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: tag_cloud
