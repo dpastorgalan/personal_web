@@ -212,7 +212,7 @@ sections:
       title: Team
       subtitle: '[Colleagues, research buddies, friends](./post/team/)'
       text: |-
-        {{< gallery album="demo" >}}
+        Colleagues
     design:
       columns: '1'
   - block: tag_cloud
