@@ -207,6 +207,14 @@ sections:
 #    design:
 #      columns: '2'
 #      view: compact
+  - block: markdown
+    content:
+      title: Team
+      subtitle: 'Colleagues, research buddies, friends'
+#      text: |-
+#        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: tag_cloud
     content:
       title: Popular Topics

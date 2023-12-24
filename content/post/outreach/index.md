@@ -1,70 +1,47 @@
-+++
-title = "Outreach"
-subtitle = ""
+---
+title: Outreach
+subtitle: Outreach activities and myself in the media
 
-date = 2016-04-20T00:00:00
-lastmod = 2023-05-13T00:00:00
-draft = false
+# Summary for listings and search engines
+summary: Outreach Daniel Pastor-Galán
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+# Link this post with a project
+projects:
+- Outreach
 
-tags = ["outreach"]
-summary = "Outreach activities and myself in the media"
+# Date published
+date: '2020-12-13T00:00:00Z'
+
+# Date updated
+lastmod: '2020-12-13T00:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  # caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+#  focal_point: ''
+#  placement: 2
+#  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+authors:
+  - admin
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
+tags:
+  - Outreach
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
+#categories:
+#  - Demo
+#  - 教程
+---
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Forest"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-apogee.png"
-caption = "Apogee"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-cupcake.png"
-caption = "Cupcake"
-+++
-
-### Participation in outreach activities 
-## 2022-2023  [**GeoTdF**](https://www.geotdf.org)
+### Outreach
+## 2022-2023  [**GeoSports**](https://www.geosports.org)
 The idea for blogs of the Geology of the Tour de France was born out of combining two passions: geology and cycling. Geoscientists tend to love the outdoors, and are a talkative bunch who can’t stop explaining about their rocks, fossils, landscapes, and natural processes, and the field expeditions they undertook. At some point I realized that viewers of live coverages of cycling races like the Tour de France watch hours and hours of geological excursions. Surely, we couldn’t let the opportunity pass to geo-monologue! And these races are covered by commentators that explain just about everything that passes the camera. All we had to do is help the commentators to explain a few things about the landscape and underlying hidden treasures. As it turns out, there are quite a few geoscientists who love cycling and watching the race, and quite a few cyclists with a keen interest in the environment. GeoTdF was born. This web page is dedicated to the Geology of the Tour de France. But on the Twitter account @geotdf, we can’t help ourselves and tweet about the geology of just about every race where we find something to tell you. So if you want your regular geo-fun fact, follow us, and drop your questions should you have any! We hope you enjoy, and we’ll see you on the road!
 
 ## 2017-2018 [**JSPS Science Dialogue**](https://www.jsps.go.jp/english/e-plaza/e-sdialogue/index.html) 
@@ -92,6 +69,7 @@ A free online event where school students get to meet and interact with geoscien
 - 2018-05-10 - [Interview at the COPE radio (Spanish)](http://www.cope.es/audios/herrera-cope/entrevista-geologo-daniel-pastor_495857) [{Audio Download}](/media/2018-05-10-COPE.mp3)
 
 ## Daniel Pastor-Galán on the papers :newspaper:
+- 2023-11-03 - [Editorial comment on Facu Sapienza's paper](https://eos.org/editor-highlights/should-i-stay-or-should-i-goto-another-paleomagnetic-site)
 - 2023-06-28 - [Press note on Geo-Sports.com - Canal UGR](https://canal.ugr.es/noticia/la-universidad-de-granada-participa-en-el-proyecto-que-descubre-la-geologia-del-tour-de-france/) In Spanish [PDF download](/media/2023-06-28-Geosports.pdf)
 - 2022-11-01 - [Leonardo network](https://www.redleonardo.es/beneficiario/daniel-pastor-galan/)
 - 2022-10-05 - [Leonardo grant on Ideal - Granada newspaper](https://www.ideal.es/miugr/tres-investigadores-40000-20221005221425-nt.html)
