@@ -217,7 +217,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Find me
+        Fantastic beast and where to find me
       # Contact (add or remove contact options as necessary)
       email: dpastorgalant@csic.es
     #  phone: +34 680534170
@@ -229,7 +229,7 @@ sections:
         postcode: '28040'
         country: Spain
         country_code: ES
-      directions: The old morgue of the Medicine Faculty!!!
+      directions: The old morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
@@ -247,15 +247,15 @@ sections:
        #   name: Zoom Me
        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+#          captcha: false
+#    design:
+#      columns: '2'
 ---
