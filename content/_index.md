@@ -219,13 +219,13 @@ sections:
       text: |-
         Fantastic beast and where to find me
       # Contact (add or remove contact options as necessary)
-      email: dpastorgalant@csic.es
+      email: dpastorgalan@csic.es
     #  phone: +34 680534170
     #  appointment_url: 'https://calendly.com'
       address:
         street: Doctor Severo Ochoa 7
         city: Madrid
-        region: Madrid
+        region: ''
         postcode: '28040'
         country: Spain
         country_code: ES
@@ -233,11 +233,11 @@ sections:
       # office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
-      # contact_links:
-      #  - icon: twitter
-      #    icon_pack: fab
-       #   name: DM Me
-       #   link: 'https://twitter.com/HotspotTrack'
+       contact_links:
+        - icon: twitter
+          icon_pack: fab
+          name: DM Me
+          link: 'https://twitter.com/HotspotTrack'
         #- icon: skype
         #  icon_pack: fab
         #  name: Skype Me
