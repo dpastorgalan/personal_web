@@ -28,9 +28,9 @@ bio: My research interests include plate tectonics, paleogeogrphy and geodynamic
 # Interests to show in About widget
 interests:
   - Tectonics
-  - Paleogeography
-  - Structural Geology
   - Paleomagnetism
+  - Paleogeography
+  - Geodynamics
   - Earth History
 
 # Education to show in About widget
@@ -88,5 +88,5 @@ highlight_name: true
 ---
 The Earth has written its own history in thousands of rock pages, the geological record, which contains evidence of the evolution and interactions of continents, oceans, atmosphere, and biosphere. Despite the rock archive is really dismembered, scattered and hidden in remote places or deeply buried, gathering the pieces together is our only opportunity to reveal the history of our planet, our history. I am a researcher who works in structural geology, plate tectonics, paleogeography and Earth history combining field geology, paleomagnetism, isotopic methods (U-Pb, Ar-Ar, Lu-Hf, Sm-Nd, O and H) and modeling (numerical and analog).
 
-I completed my Ph.D. at Universidad de Salamanca (Spain) in 2012. Since then and until 2016 I was a postdoctoral fellow at Utrecht University (The Netherlands). Later I obtained the prestigious JSPS postdoctoral fellow (Japan Society for Promotion of Science grant, successful rate <10%) to study the tectonic evolution of the Paleotethys and Panthalassa oceans interface during the Pangea amalgamation.
+I completed my Ph.D. at Universidad de Salamanca (Spain) in 2012. Since then and until 2016 I was a postdoctoral fellow at Utrecht University (The Netherlands). Later I obtained the prestigious JSPS postdoctoral fellow (Japan Society for Promotion of Science grant, successful rate <10%) to study the tectonic evolution of the Paleotethys and Panthalassa oceans interface during the Pangea amalgamation. Since then I have been Assistan Professor at Tohoku University (2019-2024), Ramón y Cajal Fellow at the University of Granada (2021-2023) and 'Científico Titular' (Research Scientist) at the Spanish Research Council (CSIC).
 {style="text-align: justify;"}

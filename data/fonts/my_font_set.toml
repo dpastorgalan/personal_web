@@ -7,7 +7,7 @@ google_fonts = "family=Montserrat:wght@400;700&family=Lora:wght@400;700&family=R
 # Font families
 heading_font = "Montserrat"
 body_font = "Lora"
-nav_font = "Lora"
+nav_font = "Montserrat"
 mono_font = "Roboto+Mono"
 
 # Font size
