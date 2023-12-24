@@ -211,8 +211,8 @@ sections:
     content:
       title: Team
       subtitle: 'Colleagues, research buddies, friends'
-#      text: |-
-#        {{< gallery album="demo" >}}
+      text: |-
+        [Check the team!](./post/team/).)
     design:
       columns: '1'
   - block: tag_cloud
