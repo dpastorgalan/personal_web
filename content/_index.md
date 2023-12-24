@@ -186,9 +186,9 @@ sections:
     content:
       title: Recent Publications
       text: |-
-#        {{% callout note %}}
+        {{% callout note %}}
         All of them [here](./publication/).
-#        {{% /callout %}}
+        {{% /callout %}}
       filters:
         folders:
           - publication
