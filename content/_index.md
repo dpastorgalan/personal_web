@@ -211,8 +211,6 @@ sections:
     content:
       title: Team
       subtitle: '[Colleagues, research buddies, friends](./post/team/)'
-      text: |-
-        Colleagues
     design:
       columns: '1'
   - block: tag_cloud
