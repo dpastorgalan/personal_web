@@ -213,11 +213,11 @@ sections:
       columns: '2'
   - block: contact
     id: contact
-    content:
+    content: The fantastic beast and where to find me
       title: Contact
       subtitle:
       text: |-
-        Fantastic beast and where to find me
+        My office hours may vary through the year due to the hybrid work from home/office of the CSIC. Check on my mail if you are planning to visit at least one day in advanced!
       # Contact (add or remove contact options as necessary)
       email: dpastorgalan@csic.es
     #  phone: +34 680534170
@@ -230,14 +230,14 @@ sections:
         country: Spain
         country_code: ES
       directions: The old morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
-      # office_hours:
-      #  - 'Monday 10:00 to 13:00'
-      #  - 'Wednesday 09:00 to 10:00'
-       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/HotspotTrack'
+#       office_hours:
+#        - 'Monday 10:00 to 13:00'
+#        - 'Wednesday 09:00 to 10:00'
+#       contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/HotspotTrack'
         #- icon: skype
         #  icon_pack: fab
         #  name: Skype Me
