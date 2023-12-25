@@ -1,5 +1,5 @@
 ---
-title: Samuel Rudvar
+title: Samuel Rudbar
 summary: MSc student 2022
 tags:
   - Past

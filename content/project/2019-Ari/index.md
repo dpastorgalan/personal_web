@@ -2,7 +2,7 @@
 title: Ariuntsetseg Ganbat
 summary: PhD student 2018-2021
 tags:
-  - Past Students
+  - Past
   - PhD
 date: '2016-04-27T00:00:00Z'
 
@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: ari
+  caption: Ari
   focal_point: Smart
 
 links:
