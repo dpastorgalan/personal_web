@@ -153,9 +153,13 @@ sections:
       buttons:
         - name: All
           tag: ''
-        - name: Paleomagnetism
+        - name: MSc
           tag: 
-        - name: Curved Mountain Belts
+        - name: BSc
+          tag:         
+        - name: PhD
+          tag: 
+        - name: Past
           tag: 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
