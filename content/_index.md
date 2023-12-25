@@ -160,10 +160,8 @@ sections:
     content:
       title: Recent Publications
       subtitle: [See all of them](./publication/).
-    #  text: |-
-    #    {{% callout note %}}
-    #    All of them [here](./publication/).
-    #    {{% /callout %}}
+      text: |-
+        
       filters:
         folders:
           - publication
