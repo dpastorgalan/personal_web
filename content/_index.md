@@ -159,9 +159,9 @@ sections:
     id: publication
     content:
       title: Recent Publications
-      subtitle: [See all of them](./publication/).
       text: |-
-        
+        [See all of them](./publication/)
+      
       filters:
         folders:
           - publication
