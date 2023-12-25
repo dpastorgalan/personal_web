@@ -132,6 +132,6 @@ By University of Salamanca. Certificate: May, 2011
 - 2015	[Daniël Brouwer](/project/2014-DanielB/)
 - 2014	[Thomas Groenewegen](/project/2013-Thomas/)
 
-# Ph.D. Thesis
+# Ph.D. Theses
 - 2021-2024		[Rafael Guerrero Roel](/project/2021-Rafa/)
 - 2019-2021	[Ariuntsegtseg Ganbat](/project/2019-Ari/)

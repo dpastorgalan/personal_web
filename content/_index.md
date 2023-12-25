@@ -186,15 +186,15 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: Present
-          tag: '*'
+          tag: 'Present'
         - name: Past
-          tag: '*'
+          tag: 'Past'
         - name: MSc
-          tag: '*'
+          tag: 'MSc'
         - name: BSc
-          tag: '*'         
+          tag: 'BSc'         
         - name: PhD
-          tag: '*' 
+          tag: 'PhD' 
         - name: All
           tag: '*' 
     design:
@@ -213,17 +213,17 @@ sections:
 #    design:
 #      columns: '2'
 #      view: compact
-  - block: markdown
-    content:
-      title: Team
-      subtitle: '[Colleagues, research buddies, friends](./post/team/)'
-    design:
-      columns: '1'
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+#  - block: markdown
+#    content:
+#      title: Team
+#      subtitle: '[Colleagues, research buddies, friends](./post/team/)'
+#    design:
+#      columns: '1'
+#  - block: tag_cloud
+#    content:
+#      title: Popular Topics
+#    design:
+#      columns: '2'
   - block: contact
     id: contact
     content: 
