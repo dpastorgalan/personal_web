@@ -1,16 +1,16 @@
 ---
-title: Thomas Groenewegen
-summary: MSc student 2013
+title: shōta Matsunaga (松永翔太)
+summary: BSc student 2018-2019
 tags:
-  - MSc
   - Past
+  - BSc
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Bart
+  caption: Shōta
   focal_point: Smart
 
 links:
@@ -31,8 +31,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-My first student!
 
-He finished a MSc thesis about oroclines in the Iberian Variscides using a multidisciplinar approach.
-
-He is probably the most unlucky person I have ever met. We broke the drill during fieldwork. His samples were lost for two months. The drill in the cutting room broke when he was preparing samples... but at the end he overcame all unfortunate events and performed a great thesis. His work is part of three papers, one publised in Geology!
+Matsunaga-san finished a B.Sc. on metamorphism from SW Japan. His analyses served to establish a new (younger) age for what used to be the oldest metamorphic rocks in Japan... well, not any longer.

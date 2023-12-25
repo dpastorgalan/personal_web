@@ -1,8 +1,8 @@
 ---
-title: Ariuntsetseg Ganbat
-summary: PhD student 2018-2021
+title: Rafael Guerra
+summary: PhD student 
 tags:
-  - Past Students
+  - Present
   - PhD
 date: '2016-04-27T00:00:00Z'
 
@@ -32,4 +32,4 @@ url_video: ''
 # slides: example
 ---
 
-Ari finished her Ph.D. at the petrotectonics group of the CNEAS, Tohoku University. She has studied igneous rocks from multiple views, gechemistry, geochronology and paleomagnetism. Her studies focused in very different times, Proterozoic of Africa, Paleozoic of Mongolia and Meso-Cenozoic from Japan. She produced a bunch of excellent papers from her Ph.D. thesis and there are more to come. She got a post-doc position at HKU and after that she will start a new postdoc position at the Göttingen!
+Rafa is working with paleomagnetic and structural data from the Sierra Madre Oriental in México. The results are an impressive series of vertical axis rotations that define an orocline that changes dramatically the way we have seen the Pacific tectonics. After a rather hectic and unlucky begining of a thesis that includes a global pandemic and the tragic murder of his supervisor and my dear friend Roberto Molina-Garza it seems that we are now in track to produce an excellent piece of work.

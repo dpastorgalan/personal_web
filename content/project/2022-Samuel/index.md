@@ -1,16 +1,16 @@
 ---
-title: Thomas Groenewegen
-summary: MSc student 2013
+title: Samuel Rudvar
+summary: MSc student 2022
 tags:
-  - MSc
   - Past
+  - MSc
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Bart
+  caption: Samuel
   focal_point: Smart
 
 links:
@@ -31,8 +31,4 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-My first student!
-
-He finished a MSc thesis about oroclines in the Iberian Variscides using a multidisciplinar approach.
-
-He is probably the most unlucky person I have ever met. We broke the drill during fieldwork. His samples were lost for two months. The drill in the cutting room broke when he was preparing samples... but at the end he overcame all unfortunate events and performed a great thesis. His work is part of three papers, one publised in Geology!
+He finished MSc project about the Pyrenees+Irelanda fighting against COVID pandemic, terrible weather in Utrecht (but fantastic tap water), and his own background (environmetal sciences). Despite everything he managed to have an outstanding performance being able to produce really high quality datasets at the same time that he became an actual solid Earth scientist!

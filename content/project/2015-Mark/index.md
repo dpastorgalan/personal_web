@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 He finished a BSc project in Fort Hoofddijk (Utrecht) about the tectonic history of Devonian rocks in the Iberian Ranges, E of Iberian Peninsula. His excellent job was crucial to develop a very nice paper published in Tectonics.

@@ -10,7 +10,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Bruno
+  caption: Furukawa
   focal_point: Smart
 
 links:
@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Furukawa-san finished a B.Sc. on detrital zircon from the Tohoku area in Japan, he has developed a new set of algorithms to analyze detrital zircon population. After a few years in industry he is doing an PhD job and in his free time that he hunts mushrooms and fossils.

@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 Bruno finished a M.Sc. at paleomagnetic laboratory Fort Hoofddijk. We have collected together a lot of samples in South Western Iberia. The results of his M.Sc Thesis support the hypothesis of a Greater Cantabrian Orocline that affected to both Gondwana and Laurussia continental margins. He also claims that an Avalonian indenter into Gondwana is an unlikely hypothesis to explain the curvature of the Variscan Orogen. In addition, he performed a secondary project compiling all palemagnetic directions from Japan from Cretaceous to present day. The results of his M.Sc. Thesis were accepted for publication in Geosciences Frontiers.

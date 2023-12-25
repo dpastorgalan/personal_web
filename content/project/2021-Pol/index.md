@@ -1,16 +1,16 @@
 ---
-title: Thomas Groenewegen
-summary: MSc student 2013
+title: Pol Vilanova Català
+summary: BSc student 2021
 tags:
-  - MSc
   - Past
+  - BSc
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Bart
+  caption: Pol
   focal_point: Smart
 
 links:
@@ -31,8 +31,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-My first student!
 
-He finished a MSc thesis about oroclines in the Iberian Variscides using a multidisciplinar approach.
-
-He is probably the most unlucky person I have ever met. We broke the drill during fieldwork. His samples were lost for two months. The drill in the cutting room broke when he was preparing samples... but at the end he overcame all unfortunate events and performed a great thesis. His work is part of three papers, one publised in Geology!
+Pol finished a B.Sc. at the University of Barcelona co-supervised by me on granitoids of Japan. He did a large compilation of geochemical data and learned to work with zircon U-Pb and Lu-Hf datasets. Together with some new datasets this will be soon published as a paper. Stay tuned.
