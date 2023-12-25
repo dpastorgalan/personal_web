@@ -160,7 +160,9 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        [See all of them](./publication/)
+        [SEE ALL PUBLICATIONS](./publication/)
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
       
       filters:
         folders:
