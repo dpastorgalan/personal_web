@@ -159,10 +159,11 @@ sections:
     id: publication
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        All of them [here](./publication/).
-        {{% /callout %}}
+      subtitle: [See all of them](./publication/).
+    #  text: |-
+    #    {{% callout note %}}
+    #    All of them [here](./publication/).
+    #    {{% /callout %}}
       filters:
         folders:
           - publication
@@ -228,7 +229,7 @@ sections:
     id: contact
     content: 
       title: Contact
-      subtitle: The fantastic beast and where to find me
+      subtitle: Fantastic beast and where to find me
       text: |-
         My office hours may vary through the year due to the hybrid work from home/office of the CSIC. Check on my mail if you are planning to visit at least one day in advanced!
       # Contact (add or remove contact options as necessary)
