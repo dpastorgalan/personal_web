@@ -2,8 +2,8 @@
 title: Ariuntsetseg Ganbat
 summary: PhD student 2018-2021
 tags:
-  - Granitoids
-  - Zircon
+  - Past Students
+  - PhD
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
