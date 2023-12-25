@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publication'
     weight: 20
-  - name: Projects
+  - name: Students
     url: '#projects'
     weight: 30
   - name : Outreach
