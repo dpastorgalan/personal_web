@@ -19,8 +19,8 @@ main:
   - name : Outreach
     url : /post/outreach/
     weight : 40
-  - name : Grants & Awards
-    url : /post/grants-awards/
+  - name : Curriculum Vitae
+    url : /post/CV/
     weight : 50
   - name: Contact
     url: '#contact'
