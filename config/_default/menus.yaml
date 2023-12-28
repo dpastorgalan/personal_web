@@ -42,11 +42,11 @@ main:
     parent: Other Projects
  - name : X-BADZUPA
     url : /post/X-BADZUPA/
-    weight : 71
+    weight : 72
     parent: Other Projects
   - name : Music
     url : /post/outreach/
-    weight : 72
+    weight : 73
     parent : Other Projects
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
