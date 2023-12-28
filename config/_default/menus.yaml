@@ -33,9 +33,21 @@ main:
     url : /post/outreach/
     weight : 62
     parent : Curriculum Vitae
-  - name : Projects
-    url : /post/CV/
+  - name : Other Projects
+    url : ''
     weight : 70
+ - name : Paleomagnetism.org
+    url : /post/paleomagnetism-org/
+    weight : 71
+    parent: Other Projects
+ - name : X-BADZUPA
+    url : /post/X-BADZUPA/
+    weight : 71
+    parent: Other Projects
+  - name : Music
+    url : /post/outreach/
+    weight : 72
+    parent : Other Projects
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
