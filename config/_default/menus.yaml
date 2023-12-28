@@ -36,10 +36,10 @@ main:
   - name : Codes and Projects
     url : ''
     weight : 70
- - name : 'Paleomagnetism.org'
-    url : /post/paleomagnetism/
-    weight : 71
-    parent: Codes and Projects
+ #- name : 'Paleomagnetism.org'
+ #   url : /post/paleomagnetism/
+ #   weight : 71
+ #   parent: Codes and Projects
  - name : X-BADZUPA
     url : /post/X-BADZUPA/
     weight : 72
