@@ -172,12 +172,12 @@ sections:
       columns: '2'
       view: citation
   - block: portfolio
-    id: projects
+    id: team
     content:
-      title: Students
+      title: Team
       filters:
         folders:
-          - project
+          - team
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -246,7 +246,7 @@ sections:
       coordinates:
         latitude: '40.443778130903205'
         longitude: '-3.7229560010646727'
-      directions: The old morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
+      directions: The former morgue of the Medicine Faculty! You can access through the line 6 of the Metro in the Ciudad Universitaria stop.
 #       office_hours:
 #        - 'Monday 10:00 to 13:00'
 #        - 'Wednesday 09:00 to 10:00'
