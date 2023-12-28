@@ -2,7 +2,7 @@
 title: "Reconstructing Late Paleozoic Pangea's Inner Deformation: Supercontinent or Superplate?"
 authors:
 - admin
-date: "2017-05-22T00:00:00Z"
+date: "2023-12-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
