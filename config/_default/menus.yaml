@@ -23,18 +23,19 @@ main:
     url: '#contact'
     weight: 50
   - name : Curriculum Vitae
-    url : /post/
+    url : ''
     weight : 60
   - name : Academic Career
     url : /post/career/
     weight : 61
-    parent : Currivulum Vitae
+    parent : Curriculum Vitae
   - name : Outreach
     url : /post/outreach/
     weight : 62
+    parent : Curriculum Vitae
   - name : Projects
     url : /post/CV/
-    weight : 80
+    weight : 70
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
