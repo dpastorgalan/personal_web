@@ -29,10 +29,14 @@ main:
     url : /post/career/
     weight : 61
     parent : Curriculum Vitae
-  - name : Outreach and Media
-    url : /post/outreach/
-    weight : 62
-    parent : Curriculum Vitae
+    - name : Academic Career
+     url : /post/grants-awards/
+     weight : 62
+     parent : Curriculum Vitae
+    - name : Outreach and Media
+     url : /post/outreach/
+     weight : 63
+     parent : Curriculum Vitae
   - name : Codes and Projects
     url : ''
     weight : 70
@@ -40,13 +44,13 @@ main:
  #   url : /post/paleomagnetism/
  #   weight : 71
  #   parent: Codes and Projects
- #- name : X-BADZUPA
+ #- name : 'X-BADZUPA'
  #   url : /post/X-BADZUPA/
  #   weight : 72
  #   parent: Codes and Projects
-# - name : Music
-#    url : /post/music/
-#    weight : 73
+    - name : Music
+     url : /post/music/
+     weight : 73
 #    parent : Codes and Projects
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
