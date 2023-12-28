@@ -16,19 +16,25 @@ main:
   - name: Students
     url: '#projects'
     weight: 30
-  - name : Outreach
-    url : /post/outreach/
-    weight : 40
   - name: Fieldwork
     url: '#fieldwork'
-    weight: 20
-  - name : Curriculum Vitae
-    url : /post/CV/
-    weight : 60
+    weight: 40
   - name: Contact
     url: '#contact'
-    weight: 70
-
+    weight: 50
+  - name : Curriculum Vitae
+    url : /post/
+    weight : 60
+  - name : Academic Career
+    url : /post/career/
+    weight : 61
+    parent : Currivulum Vitae
+  - name : Outreach
+    url : /post/outreach/
+    weight : 62
+  - name : Projects
+    url : /post/CV/
+    weight : 80
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
