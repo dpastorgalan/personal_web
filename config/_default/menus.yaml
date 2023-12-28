@@ -29,14 +29,14 @@ main:
     url : /post/career/
     weight : 61
     parent : Curriculum Vitae
-    - name : Academic Career
-     url : /post/grants-awards/
-     weight : 62
-     parent : Curriculum Vitae
-    - name : Outreach and Media
-     url : /post/outreach/
-     weight : 63
-     parent : Curriculum Vitae
+  - name : Academic Career
+    url : /post/grants-awards/
+    weight : 62
+    parent : Curriculum Vitae
+  - name : Outreach and Media
+    url : /post/outreach/
+    weight : 63
+    parent : Curriculum Vitae
   - name : Codes and Projects
     url : ''
     weight : 70
