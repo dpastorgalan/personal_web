@@ -24,7 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: Daniel Pastor-Galán
+authors:
+  - Daniel Pastor-Galán
 tags:
   - Curved Mountain belts
   - Pangea
