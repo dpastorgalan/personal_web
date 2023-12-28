@@ -29,7 +29,7 @@ main:
     url : /post/career/
     weight : 61
     parent : Curriculum Vitae
-  - name : Academic Career
+  - name : Grants and Awards
     url : /post/grants-awards/
     weight : 62
     parent : Curriculum Vitae
