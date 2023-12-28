@@ -40,7 +40,7 @@ main:
   - name : Projects
     url : ''
     weight : 70
-  - name : Paleomagnetism
+  - name : Paleomagnetism.org
     url : /post/paleomagnetism/
     weight : 71
     parent: Projects
