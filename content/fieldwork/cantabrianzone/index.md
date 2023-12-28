@@ -2,7 +2,7 @@
 title: Cantabrian Zone 2008-2012
 
 event: Fieldwork from my PhD
-event_url: https://example.org
+event_url: ''
 
 location: Cantabrian Zone
 address:
@@ -12,8 +12,8 @@ address:
   postcode: ''
   country: Spain
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: My PhD fieldwork, 4 years in the Cantabrian mountains
+abstract: During my PhD I studied the brittle deformation in Stephanian (Gzhelian) basins of the Cantabrian Zone associated to the formation of the Cantabrian Orocline, as well as the secondary geometry obtained by the fold and thurst belt and information obtained from detrital zircons in the foreland basin and the Stephanians.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

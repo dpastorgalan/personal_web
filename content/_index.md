@@ -208,6 +208,7 @@ sections:
     id: fieldwork
     content:
       title: Fieldwork
+      count: 3
       filters:
         folders:
           - fieldwork

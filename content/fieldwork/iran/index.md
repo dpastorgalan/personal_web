@@ -8,12 +8,12 @@ location: Iran
 address:
   street: NW Iran
   city: ''
-  region: Talehs
+  region: Talesh
   postcode: ''
   country: Iran
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Fieldwork with my Dutch and Iranian friends
+abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Irean. Here are some pics about these fieldtrips.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -29,6 +29,7 @@ authors:
   - Cor Langereis
   - Annique van de Boon
   - Wout Krijgsman
+  - Mahnaz Rezaeian
 tags:
   - Curved Moiuntain Belts
   - Talesh
