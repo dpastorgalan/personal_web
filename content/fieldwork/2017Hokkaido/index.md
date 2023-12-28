@@ -1,24 +1,24 @@
 ---
-title: Talesh
+title: Hokkaido
 
 event: Fieldwork
 event_url: ''
 
-location: Iran
+location: Japan
 address:
-  street: NW Iran
+  street: North Japan
   city: ''
-  region: Talesh
+  region: Hokkaido
   postcode: ''
-  country: Iran
+  country: Japan
 
-summary: Fieldwork with my Dutch and Iranian friends
-abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Iran. Here are some pics about these fieldtrips.
+summary: Hokkaido fieldtrip. Summer of course.
+abstract: Two fantastic fieldtrips searching the history of the Pacific subduction
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2013-12-01T13:00:00Z'
-date_end: '2014-7-15T15:00:00Z'
+date: '2017-06-01T13:00:00Z'
+date_end: '2017-09-15T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -26,22 +26,20 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
   - Daniel Pastor-Galán
-  - Cor Langereis
-  - Annique van de Boon
-  - Wout Krijgsman
-  - Mahnaz Rezaeian
+  - Naoto Hirano
+  - Lydian Boschman
+  
 tags:
-  - Curved Moiuntain Belts
-  - Talesh
-  - Arabia and Eurasia
-  - Orocline
+  - Pacific
+  - Subduction
+  - Nemuro
   - Paleomagnetism
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Talesh'
+  caption: 'Kurumaishi'
   focal_point: Right
 
 #links:
@@ -69,6 +67,6 @@ image:
 #projects:
 #  - example
 ---
-One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Iran. Here are some pics about these fieldtrips.
-## Some photos from the Talesh [HERE](https://photos.app.goo.gl/tStHy7G2GcAHZoBh8)
-## and also [HERE] (https://photos.app.goo.gl/EdSnxWcFDCHGfMWm9)
+One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
+
+## You can see a collection of photos in [HERE](https://photos.app.goo.gl/3lMXB3OgB2fAfE2b2)

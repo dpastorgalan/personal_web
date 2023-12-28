@@ -1,24 +1,24 @@
 ---
-title: Talesh
+title: Munster Basin
 
 event: Fieldwork
 event_url: ''
 
-location: Iran
+location: Ireland
 address:
-  street: NW Iran
+  street: SW Ireland
   city: ''
-  region: Talesh
+  region: Count Cork, Count Bantry, Count Clare
   postcode: ''
-  country: Iran
+  country: Ireland
 
-summary: Fieldwork with my Dutch and Iranian friends
-abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Iran. Here are some pics about these fieldtrips.
+summary: Fieldwork in Ireland to study the Greated Cantabrian Orocline
+abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2013-12-01T13:00:00Z'
-date_end: '2014-7-15T15:00:00Z'
+date: '2013-08-01T13:00:00Z'
+date_end: '2014-05-15T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -26,14 +26,12 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors: 
   - Daniel Pastor-Galán
-  - Cor Langereis
-  - Annique van de Boon
-  - Wout Krijgsman
-  - Mahnaz Rezaeian
+  - Patrick Meere
+  - Bart Ursem
+  
 tags:
   - Curved Moiuntain Belts
-  - Talesh
-  - Arabia and Eurasia
+  - Ireland
   - Orocline
   - Paleomagnetism
 
@@ -41,7 +39,7 @@ tags:
 featured: false
 
 image:
-  caption: 'Talesh'
+  caption: 'Munster Basin'
   focal_point: Right
 
 #links:
@@ -69,6 +67,6 @@ image:
 #projects:
 #  - example
 ---
-One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Iran. Here are some pics about these fieldtrips.
-## Some photos from the Talesh [HERE](https://photos.app.goo.gl/tStHy7G2GcAHZoBh8)
-## and also [HERE] (https://photos.app.goo.gl/EdSnxWcFDCHGfMWm9)
+One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
+
+## Some photos from May 2014 [HERE](https://goo.gl/photos/kx1hiku9UXAC9QXs6)
