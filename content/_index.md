@@ -204,16 +204,16 @@ sections:
       view: compact
       # For Showcase view, flip alternate rows?
      # flip_alt_rows: false
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      columns: '2'
-#      view: compact
+  - block: collection
+    id: fieldwork
+    content:
+      title: Fieldwork
+      filters:
+        folders:
+          - fieldwork
+    design:
+      columns: '2'
+      view: compact
 #  - block: markdown
 #    content:
 #      title: Team
