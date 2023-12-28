@@ -44,10 +44,10 @@ main:
  #   url : /post/paleomagnetism/
  #   weight : 71
  #   parent: Projects
- #- name : 'X-BADZUPA'
- #   url : /post/X-BADZUPA/
- #   weight : 72
- #   parent: Projects
+ - name : 'X-BADZUPA'
+    url : /post/X-BADZUPA/
+    weight : 72
+    parent: Projects
   - name : Music
     url : /post/music/
     weight : 73
