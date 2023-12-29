@@ -4,14 +4,14 @@ name = "my_theme"
 [light]
 # Primary
 primary = "#3286ad"
-primary_active = "#AD5657"
+primary_active = "#57a7cc"
 primary_light = "#57a7cc"
 primary_dark = "#2b5f77"
 
 # Menu
 menu_primary = "#fff"
 menu_text = "#2b5f77"
-menu_text_active = "#AD5657"
+menu_text_active = "#3286ad"
 menu_title = "#2b5f77"
 
 # Home sections
