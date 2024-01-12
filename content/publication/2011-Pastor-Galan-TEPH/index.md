@@ -40,14 +40,14 @@ featured: false
 
 # links:
 # - name: ""
-url: www.sciencedirect.com/science/article/pii/S0040195111001946
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.sciencedirect.com/science/article/pii/S0040195111001946'
 url_video: 'www.youtube.com/watch?v=cZT-11s_psE&t=15s'
 
 # Featured image

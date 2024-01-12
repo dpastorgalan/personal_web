@@ -44,14 +44,14 @@ featured: false
 
 # links:
 # - name: ""
-url: 'www.doi.org/10.1029/2010TC002845'
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.doi.org/10.1029/2010TC002845'
 url_video: 'https://www.youtube.com/watch?v=NZHcmXJrbdY'
 
 # Featured image

@@ -44,14 +44,14 @@ featured: false
 
 # links:
 # - name: ""
-url: www.doi.org/10.1016/j.lithos.2010.09.010
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.doi.org/10.1016/j.lithos.2010.09.010'
 url_video: ''
 
 # Featured image

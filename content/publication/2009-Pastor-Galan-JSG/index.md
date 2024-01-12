@@ -36,14 +36,14 @@ featured: false
 
 # links:
 # - name: ""
-url: www.sciencedirect.com/science/article/pii/S0191814109001783
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.sciencedirect.com/science/article/pii/S0191814109001783'
 url_video: ''
 
 # Featured image

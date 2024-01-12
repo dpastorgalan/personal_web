@@ -42,14 +42,14 @@ featured: false
 
 # links:
 # - name: ""
-url: 'www.sge.usal.es/archivos/geogacetas/geo52/art07.pdf'
+url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.sge.usal.es/archivos/geogacetas/geo52/art07.pdf'
 url_video: ''
 
 # Featured image
