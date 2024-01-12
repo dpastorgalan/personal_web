@@ -42,14 +42,14 @@ featured: false
 
 # links:
 # - name: ""
-url: 'www.rock.geosociety.org/gsatoday/archive/22/7/pdf/i1052-5173-22-7-4.pdf'
+# url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'www.rock.geosociety.org/gsatoday/archive/22/7/pdf/i1052-5173-22-7-4.pdf'
 url_video: 'www.youtube.com/watch?v=cZT-11s_psE&t=15s'
 
 # Featured image
