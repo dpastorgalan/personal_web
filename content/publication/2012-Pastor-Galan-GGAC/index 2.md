@@ -44,7 +44,7 @@ featured: false
 
 # links:
 # - name: ""
-url: https://sge.usal.es/archivos/geogacetas/geo52/art07.pdf
+url: www.sge.usal.es/archivos/geogacetas/geo52/art07.pdf
 url_pdf: ''
 url_code: ''
 url_dataset: ''
