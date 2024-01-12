@@ -42,7 +42,7 @@ featured: false
 
 # links:
 # - name: ""
-url: www.rock.geosociety.org/gsatoday/archive/22/7/pdf/i1052-5173-22-7-4.pdf
+url: 'www.rock.geosociety.org/gsatoday/archive/22/7/pdf/i1052-5173-22-7-4.pdf'
 url_pdf: ''
 url_code: ''
 url_dataset: ''
