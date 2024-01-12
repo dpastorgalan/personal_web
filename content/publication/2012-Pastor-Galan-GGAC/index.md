@@ -13,7 +13,7 @@ author_notes:
 - ""
 - ""
 date: "2012-01-01T00:00:00Z"
-doi: "10.1130/GSATG141A.1"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01T00:00:00Z"
