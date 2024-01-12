@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-- name: ''
-  url: ''
+#- name: ''
+#url: ''
 url_pdf: ''
 url_code: ''
 url_dataset: ''
