@@ -52,7 +52,7 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: hb/x
-    icon_pack: hb
+    icon_pack:
     link: https://twitter.com/HotspotTrack
     label: Follow me on X
     display:
@@ -69,8 +69,8 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: daniel-pastor-galán-446b8935/
-  - icon: clarivate
-    icon_pack: ai
+  - icon: academicons/clarivate
+    icon_pack: academicons
     link: https://www.webofscience.com/wos/author/record/1072760
     
   # Link to a PDF of your resume/CV.
