@@ -55,20 +55,26 @@ social:
     icon_pack: fab
     link: https://twitter.com/HotspotTrack
     label: Follow me on X
-    display:
-      header: true
+    #display:
+    #  header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=ZrYoeIEAAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: ai
     link: https://github.com/dpastorgalan
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0226-2739
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: daniel-pastor-galán-446b8935/
+    display:
+      header: true
 #  - icon: clarivate
 #    icon_pack: ai
 #    link: https://www.webofscience.com/wos/author/record/1072760
