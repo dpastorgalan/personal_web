@@ -1,5 +1,5 @@
 ---
-title: shōta Matsunaga (松永翔太)
+title: Shōta Matsunaga (松永翔太)
 summary: BSc student 2018-2019
 tags:
   - Past
