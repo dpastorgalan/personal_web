@@ -51,20 +51,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
+  - icon: x
+    icon_pack: hb
     link: https://twitter.com/HotspotTrack
-    label: Follow me on Twitter
+    label: Follow me on X
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: hb
     link: https://scholar.google.com/citations?user=ZrYoeIEAAAAJ&hl=en
   - icon: github
-    icon_pack: fab
+    icon_pack: hb
     link: https://github.com/dpastorgalan
   - icon: orcid
-    icon_pack: ai
+    icon_pack: hb
     link: https://orcid.org/0000-0002-0226-2739
   - icon: linkedin
     icon_pack: fab
@@ -88,5 +88,5 @@ highlight_name: true
 ---
 The Earth has written its own history in thousands of rock pages, the geological record, which contains evidence of the evolution and interactions of continents, oceans, atmosphere, and biosphere. Despite the rock archive is really dismembered, scattered and hidden in remote places or deeply buried, gathering the pieces together is our only opportunity to reveal the history of our planet, our history. I am a researcher who works in structural geology, plate tectonics, paleogeography and Earth history combining field geology, paleomagnetism, isotopic methods (U-Pb, Ar-Ar, Lu-Hf, Sm-Nd, O and H) and modeling (numerical and analog).
 
-I completed my Ph.D. at Universidad de Salamanca (Spain) in 2012. Since then and until 2016 I was a postdoctoral fellow at Utrecht University (The Netherlands). Later I obtained the prestigious JSPS postdoctoral fellow (Japan Society for Promotion of Science grant, successful rate <10%) to study the tectonic evolution of the Paleotethys and Panthalassa oceans interface during the Pangea amalgamation. Since then I have been Assistan Professor at Tohoku University (2019-2024), Ramón y Cajal Fellow at the University of Granada (2021-2023) and 'Científico Titular' (Research Scientist) at the Spanish Research Council (CSIC).
+I completed my Ph.D. at Universidad de Salamanca (Spain) in 2012. Since then and until 2016 I was a postdoctoral fellow at Utrecht University (The Netherlands). Later I obtained the prestigious JSPS postdoctoral fellow (Japan Society for Promotion of Science grant, successful rate <10%) to study the tectonic evolution of the Paleotethys and Panthalassa oceans interface during the Pangea amalgamation. Since then I have been Assistan Professor at Tohoku University (2019-2024), Ramón y Cajal Fellow at the University of Granada (2021-2023) and 'Científico Titular' (Scientist) at the Spanish Research Council (CSIC).
 {style="text-align: justify;"}
