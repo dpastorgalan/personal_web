@@ -73,8 +73,8 @@ sections:
           company_url: 'www.usal.es'
           company_logo: 'org-usal'
           location: Salamanca
-          date_start: '2008-15-09'
-          date_end: '2012-15-09'
+          date_start: '2008-09-16'
+          date_end: '2012-09-15'
           description: ''
     design:
       columns: '2'
