@@ -54,8 +54,8 @@ sections:
           description: ''
         - title: JSPS Fellow
           company: Tohoku University
-          company_url: ''
-          company_logo: ''
+          company_url: 'www.tohoku.ac.jp'
+          company_logo: 'org-tohoku'
           location: Sendai
           date_start: '2016-09-29'
           date_end: '2018-09-29'
