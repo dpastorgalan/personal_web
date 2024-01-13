@@ -51,20 +51,20 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: x
+  - icon: hb/x
     icon_pack: hb
     link: https://twitter.com/HotspotTrack
     label: Follow me on X
     display:
       header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: hb
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=ZrYoeIEAAAAJ&hl=en
   - icon: github
-    icon_pack: hb
+    icon_pack: ai
     link: https://github.com/dpastorgalan
   - icon: orcid
-    icon_pack: hb
+    icon_pack: ai
     link: https://orcid.org/0000-0002-0226-2739
   - icon: linkedin
     icon_pack: fab
