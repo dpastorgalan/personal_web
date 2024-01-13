@@ -25,8 +25,8 @@ sections:
       items:
         - title: Científico Titular
           company: CSIC
-          company_url: ''
-          company_logo: ''
+          company_url: 'www.csic.es'
+          company_logo: '/media/icons/org-csic.svg'
           location: IGEO, Madrid
           date_start: '2024-01-09'
           date_end: ''
@@ -38,16 +38,16 @@ sections:
               * Continental Crust
         - title: Ramón y Cajal Fellow
           company: University of Granada
-          company_url: ''
-          company_logo: ''
+          company_url: 'www.ugr.es'
+          company_logo: '/media/icons/org-ugr.svg'
           location: Granada
           date_start: '2021-05-01'
           date_end: '2024-01-08'
           description: ''
         - title: Assistant Professor (助教) of Tectonics
           company: Tohoku University
-          company_url: ''
-          company_logo: ''
+          company_url: 'www.tohoku.ac.jp'
+          company_logo: '/media/icons/org-tohoku.png'
           location: Sendai
           date_start: '2019-06-01'
           date_end: ''
@@ -62,11 +62,19 @@ sections:
           description: ''
         - title: Postdoctoral Fellow
           company: Utrecht University
-          company_url: ''
-          company_logo: ''
+          company_url: 'www.uu.nl'
+          company_logo: '/media/icons/org-uu.png'
           location: Utrecht
           date_start: '2013-01-01'
           date_end: '2016-07-31'
+          description: ''
+        - title: PhD Student
+          company: Salamanca University
+          company_url: 'www.usal.es'
+          company_logo: '/media/icons/org-usal.png'
+          location: Salamanca
+          date_start: '2008-15-09'
+          date_end: '2012-15-09'
           description: ''
     design:
       columns: '2'
