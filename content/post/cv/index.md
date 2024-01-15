@@ -148,7 +148,7 @@ The idea for blogs of the Geology of the Tour de France was born out of combinin
 
 ### 2017-2018 [**JSPS Science Dialogue**](https://www.jsps.go.jp/english/e-plaza/e-sdialogue/index.html) 
 The program offers [JSPS Overseas Fellows](https://www.jsps.go.jp/english/e-ab/index.html) the unique opportunities to volunteer to give lectures in English on their research work at Japanese high schools in the vicinity of their host institutes. The aim of the lectures is to stimulate the young students’ interest in research and deepen their understanding from a global point of view through interacting with Fellows. As for the Fellows, the participation in the program will be an enjoyable opportunity to communicate with the local community and strengthen their ties with Japan. By the way, [I was the announcement photograph in the 2018 call](/media/SD2018_EN.pdf).
-![Screenshot](/images/JSPSSD2017.jpg)
+![Screenshot](/JSPSSD2017.jpg)
 
 ### 2016 [Somos científicos, ¡sácanos de aquí!](http://somoscientificos.es/)
 Spanish version of the previous
