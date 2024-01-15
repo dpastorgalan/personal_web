@@ -162,12 +162,12 @@ A free online event where school students get to meet and interact with geoscien
 - 2019-02-20 - [Interview for Castilla y León TV](https://www.youtube.com/watch?v=AN_hSyRp6yo&t=3s&fbclid=IwAR2MaL8QC4o2Hz6YlK7e1IE-d61osWlyt3PD62oXM-yOZf5RJnYxpJSACRE) [{Video Download}](https://drive.google.com/open?id=1tfGl1d8ow10HqnYdDpWck96QgfWtodhi)
 
 ### Daniel Pastor-Galán on radio :radio: :microphone2:
-- 2023-04-09 - [Interview at Serendipias podcast - Cadena Ser](https://cadenaser.com/audio/1681114926938/) In Spanish [mp3 mirror](/media/2023-04-09-serendipias)
-- 2022-04-06 - [interview in Noosfera podcast - La Razón](https://www.larazon.es/ciencia/20200605/puamgfnglffepbjzedwc6oi4ua.html) in Spanish [mp3 mirror](/media/2022-04-06-noosfera_99.mp3)
-- 2021-03-17 - [interview in Cadena Cien about water in the mantle](https://www.ivoox.com/aparici-orbita-como-era-tierra-hace-audios-mp3_rf_67046289_1.html) In Spanish [mp3 mirror](/media/2021-03-17-OndaCero.mp3)
+- 2023-04-09 - [Interview at Serendipias podcast - Cadena Ser](https://cadenaser.com/audio/1681114926938/) In Spanish [{Audio Download}](/media/2023-04-09-serendipias)
+- 2022-04-06 - [interview in Noosfera podcast - La Razón](https://www.larazon.es/ciencia/20200605/puamgfnglffepbjzedwc6oi4ua.html) in Spanish [{Audio Download}](/media/2022-04-06-noosfera_99.mp3)
+- 2021-03-17 - [interview in Cadena Cien about water in the mantle](https://www.ivoox.com/aparici-orbita-como-era-tierra-hace-audios-mp3_rf_67046289_1.html) In Spanish [{Audio Download}](/media/2021-03-17-OndaCero.mp3)
 - 2021-03-07 - [Participation in 'A Ciencia Cierta' podcast](https://www.ivoox.com/todo-sobre-fukushima-10-anos-del-terremoto-tsunami-accidente-nuclear-audios-mp3_rf_66588444_1.html) In Spanish [Mp3 Download](/media/2021-03-07_Acienciacierta.mp3)
 - 2021-03-02 - [Interview for RNE (National Spanish Radio)](https://www.rtve.es/alacarta/audios/punto-de-enlace/punto-enlace-daniel-pastor-galan-estudia-japon-pasado-geologico-02-03-21/5807371/) In Spanish [Mp3 Download](/media/2021-03-02_Punto_de_enlace.mp3)
-- 2020-09-08 - Radio Interview with Antonio Armas [investigadores por el mundo](https://www.ivoox.com/moldeado-del-este-asiatico-subduccion-del-audios-mp3_rf_56322511_1.html) [MP3 Mirror](/media/2020-09-08_AntonioArmasInterview.mp3) 
+- 2020-09-08 - Radio Interview with Antonio Armas [investigadores por el mundo](https://www.ivoox.com/moldeado-del-este-asiatico-subduccion-del-audios-mp3_rf_56322511_1.html) [{Audio Download}](/media/2020-09-08_AntonioArmasInterview.mp3) 
 - 2019-01-01 - [Interview for SER radio (Spanish)](https://play.cadenaser.com/audio/1547469320_394191/) [{Audio Download}](/media/2019-01-1-SER_award.mp3)
 - 2018-05-10 - [Interview at the COPE radio (Spanish)](http://www.cope.es/audios/herrera-cope/entrevista-geologo-daniel-pastor_495857) [{Audio Download}](/media/2018-05-10-COPE.mp3)
 
