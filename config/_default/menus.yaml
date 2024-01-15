@@ -23,20 +23,8 @@ main:
     url: '#contact'
     weight: 50
   - name : Curriculum Vitae
-    url : ''
+    url : '/post/cv/'
     weight : 60
-  - name : Academic Career
-    url : /post/career/
-    weight : 61
-    parent : Curriculum Vitae
-  - name : Grants and Awards
-    url : /post/grants-awards/
-    weight : 62
-    parent : Curriculum Vitae
-  - name : Outreach and Media
-    url : /post/outreach/
-    weight : 63
-    parent : Curriculum Vitae
   - name : Projects
     url : ''
     weight : 70
