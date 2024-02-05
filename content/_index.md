@@ -49,7 +49,7 @@ sections:
           company_url: 'www.tohoku.ac.jp'
           company_logo: 'org-tohoku'
           location: Sendai
-          date_start: '2019-06-01'
+          date_start: '2019-05-01'
           date_end: ''
           description: ''
         - title: JSPS Fellow
