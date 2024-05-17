@@ -172,6 +172,8 @@ A free online event where school students get to meet and interact with geoscien
 - 2018-05-10 - [Interview at the COPE radio (Spanish)](http://www.cope.es/audios/herrera-cope/entrevista-geologo-daniel-pastor_495857) [{Audio Download}](/media/2018-05-10-COPE.mp3)
 
 ### Daniel Pastor-Galán on the papers :newspaper:
+- 2023-11-03 - [Editorial comment on Justin Tonti-Filippinni's paper](https://eos.org/editor-highlights/gad-is-enough)
+- 2024-04-22 - [Press note on Leonardo Grantees Meeting](https://elpais.com/ciencia/2024-04-22/las-becas-leonardo-cumplen-una-decada-con-mas-de-600-proyectos-de-investigadores-y-creadores-culturales.html#?rel=mas_sumario)
 - 2023-11-03 - [Editorial comment on Facu Sapienza's paper](https://eos.org/editor-highlights/should-i-stay-or-should-i-goto-another-paleomagnetic-site)
 - 2023-06-28 - [Press note on Geo-Sports.com - Canal UGR](https://canal.ugr.es/noticia/la-universidad-de-granada-participa-en-el-proyecto-que-descubre-la-geologia-del-tour-de-france/) In Spanish [PDF download](/media/2023-06-28-Geosports.pdf)
 - 2022-11-01 - [Leonardo network](https://www.redleonardo.es/beneficiario/daniel-pastor-galan/)
