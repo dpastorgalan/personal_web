@@ -1,5 +1,5 @@
 ---
-title: 'The Beginning of a Wilson Cycle in an Accretionary Orogen: The Mongol–Okhotsk Ocean Opened Assisted by a Devonian Mantle Plume'
+title: The Beginning of a Wilson Cycle in an Accretionary Orogen':' The Mongol–Okhotsk Ocean Opened Assisted by a Devonian Mantle Plume
 
 authors:
 - Mingshuai Zhu
@@ -32,8 +32,6 @@ publication: "GeophysicalResearchLetters,51,e2024GL109028, DOI: 10.1029/2024GL10
 publication_short: "GRL, 51, e2024GL109028"
 
 abstract: The opening of oceans within accretionary orogens is important for understanding the Wilson cycle. The Mongol–Okhotsk Ocean (MOO) began opening within the early Paleozoic accretionary collage of the Central Asian Orogenic Belt (CAOB), representing a world-class example to constrain the geodynamic history of ocean opening in accretionary orogens, but the kinematics and mechanisms associated to this process are highly debated. We report on a newly-discovered bimodal volcanic suite and associated volcanic-sediments that comprise part of the Altay-Sayan Rift System, which indicate a widespread Early Devonian extensional event within the CAOB. This extension regime is attributed to a Devonian mantle plume, which is thought to have impinged upon and weakened the lithosphere of the Early Paleozoic collage, and drove the opening of the MOO. Opening of the MOO suggests continent breakup in accretionary orogens tends to focus along intervening weak orogenic lithosphere between the rigid microcontinents.
-
-
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
