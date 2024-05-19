@@ -1,5 +1,5 @@
 ---
-title: The Beginning of a Wilson Cycle in an Accretionary Orogen':' The Mongol–Okhotsk Ocean Opened Assisted by a Devonian Mantle Plume
+title: The Beginning of a Wilson Cycle in an Accretionary Orogen. The Mongol–Okhotsk Ocean Opened Assisted by a Devonian Mantle Plume
 
 authors:
 - Mingshuai Zhu
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
  image:
-  caption: 'Early Devonian global plate tectonic map and paleolatitudes of the Amur Block and Siberia Craton'
+  caption: Early Devonian global plate tectonic map and paleolatitudes of the Amur Block and Siberia Craton
   focal_point: ""
   preview_only: false
 
