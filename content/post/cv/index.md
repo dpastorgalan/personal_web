@@ -106,27 +106,29 @@ By University of Salamanca. Certificate: May, 2011
 - 2021-2024		[Rafael Guerrero Roel](/project/2021-Rafa/)
 - 2019-2021	[Ariuntsegtseg Ganbat](/project/2019-Ari/)
 
-## **Grants** (TOTAL ~ €1747000) :moneybag:
+## **Grants** (TOTAL ~ € 5,840,000) :moneybag:
 ***
-- 2022 [PI] **Beca Leonardo, BBVA** “Campo geomagnético, tectónica y orígenes de la vida: ¿qué ocurrió hace entre 575 y 530 millones de años?” *[37 k€]*
+- 2024 **MSCA-DN** "Understanding the formation, movement, and host-rock interaction of upper crustal aqueous fluids on Earth,
+from rock grain to tectonic plate scales (ForMovFluid)" **[Patrick Meere, coordinator; Co-PIs: Barbara Kleine-Marshall, Johannes Wiest, Paul Gordon, and Daniel Pastor-Galán]** *[k€ 4093.4016]* *[PI of k€ 1242.036]*
+- 2022 [PI] **Beca Leonardo, BBVA** “Campo geomagnético, tectónica y orígenes de la vida: ¿qué ocurrió hace entre 575 y 530 millones de años?” *[k€ 37]*
 - 2022 [PI] **Proyectos Generación Conocimiento, AgeInves** PID2021-128801NA-I00 "Tectonic erosion through KInematics from TEstimonials of SUbduction in Northeast Eurasia (KITSUNE). *[90.75 k€]*
-- 2021 [PI] **Ramón y Cajal Fellowship** RYC2019-028244-I *[300 k€]*
-- 2021 **Kakenhi Grant-in-Aid, JSPS** JP21379588: 含水マントルウェッジ流体の化学組成と化学的性質：高圧実験併用型の地質試料解析 *[Co-PI with Tatsuki Tsujimori, 14.4 G¥, ~110 k€]*
-- 2020 [PI] **Joint Research Grant, CNEAS, Tohoku University** 東北日本とロシア極東の地質の連続性：東北地方の中古生界地質からの視点 *[500 K¥, ~4 k€]*
-- 2019 [PI] **Joint Research Grant, CNEAS, Tohoku University** Tsunami Earthquakes facing their cause: tectonic erosion and subduction dynamics *[400 K¥, ~3.5 k€]*
-- 2017 [PI] **Ensemble Grant Tohoku University** 400 M.yr. of tectonic erosion in Japan. *[6 k€]*
-- 2017  **Irish Centre for Research in Applied Geosciences** (R17390: A provenance study to characterise the contribution of axial drainage systems to the deposition of Mesozoic sandstone reservoirs in the North Celtic Sea and St. Georges Channel Basins, offshore south east Ireland.) *[Co-Pi with Patrick Meere, 155k€]*
-- 2016   **National Museum of Nature and Science, Tokyo.** Franciscan “knocker” revisited: Reevaluation of regional distribution of high-grade tectonic blocks in California. *[PI Tatsuki Tsujimori 8k€]*
+- 2021 [PI] **Ramón y Cajal Fellowship** RYC2019-028244-I *[k€ 300]*
+- 2021 **Kakenhi Grant-in-Aid, JSPS** JP21379588: 含水マントルウェッジ流体の化学組成と化学的性質：高圧実験併用型の地質試料解析 *[Co-PI with Tatsuki Tsujimori, G¥ 14.4, ~110 k€]*
+- 2020 [PI] **Joint Research Grant, CNEAS, Tohoku University** 東北日本とロシア極東の地質の連続性：東北地方の中古生界地質からの視点 *[K¥ 500, ~k€ 4]*
+- 2019 [PI] **Joint Research Grant, CNEAS, Tohoku University** Tsunami Earthquakes facing their cause: tectonic erosion and subduction dynamics *[K¥ 400, ~3.5 k€]*
+- 2017 [PI] **Ensemble Grant Tohoku University** 400 M.yr. of tectonic erosion in Japan. *[k€ 6]*
+- 2017  **Irish Centre for Research in Applied Geosciences** (R17390: A provenance study to characterise the contribution of axial drainage systems to the deposition of Mesozoic sandstone reservoirs in the North Celtic Sea and St. Georges Channel Basins, offshore south east Ireland.) *[Co-Pi with Patrick Meere, k€ 155]*
+- 2016   **National Museum of Nature and Science, Tokyo.** Franciscan “knocker” revisited: Reevaluation of regional distribution of high-grade tectonic blocks in California. *[PI Tatsuki Tsujimori k€ 8]*
 - 2016   **JSPS “Tokubetsu Kenkyuin Shorei-hi” (Grant-in-aid)** Tectonic reconstruction of the Interface between Panthalassa and Paleotethys oceans *[PI, 21k€]*
-- 2016   **JSPS Postdoctoral Fellowship for Overseas Researchers (Standard)** *[PI, 100k€]*
-- 2014   **Spanish national science research project** “ODRE III” (Oroclines Delamination Relationships and Effects) *[PI Gabriel Gutiérrez-Alonso, 100 k€]*
-- 2013   **Irish Petroleum Infrastructure Programme** (R15389: Tracing Sediment Pathways From Onshore Southern Ireland To The Southern Porcupine Basin)  *Co-PI with Patrick Meere [460 k€]*
-- 2013  **ISES postdoctoral fellowship**, Fort Hoofddijk, University of Utrecht, *Co-PI with Cor Langereis [200 k€]*
-- 2011   **Universidad de Salamanca visiting stay fellowship** in St. Francis Xavier University (Antigonish, Canada). 7 weeks. *[0,8 k€]*
-- 2010   **Spanish Ministry of Education visiting stay fellowship** in Frankfurt (Germany). 13 weeks. *[4,85 k€]*
-- 2009   **Spanish national science research project** “ODRE II” (Oroclines Delamination Relationships and Effects)- *PI Gabriel Gutiérrez-Alonso [103 k€]*
-- 2008  **Junta de Castilla León and European social fund PhD fellowship.** 4 year. *[62,4 k€]*
-- 2007   **Spanish Ministry of Education and Science Departamental collaboration fellowship** *[2,5 k€]*
+- 2016   **JSPS Postdoctoral Fellowship for Overseas Researchers (Standard)** *[PI, k€ 100]*
+- 2014   **Spanish national science research project** “ODRE III” (Oroclines Delamination Relationships and Effects) *[PI Gabriel Gutiérrez-Alonso, k€ 100]*
+- 2013   **Irish Petroleum Infrastructure Programme** (R15389: Tracing Sediment Pathways From Onshore Southern Ireland To The Southern Porcupine Basin)  *Co-PI with Patrick Meere [k€ 460]*
+- 2013  **ISES postdoctoral fellowship**, Fort Hoofddijk, University of Utrecht, *Co-PI with Cor Langereis [k€ 200]*
+- 2011   **Universidad de Salamanca visiting stay fellowship** in St. Francis Xavier University (Antigonish, Canada). 7 weeks. *[k€ 0.8]*
+- 2010   **Spanish Ministry of Education visiting stay fellowship** in Frankfurt (Germany). 13 weeks. *[k€ 4.85]*
+- 2009   **Spanish national science research project** “ODRE II” (Oroclines Delamination Relationships and Effects)- *PI Gabriel Gutiérrez-Alonso [k€ 103]*
+- 2008  **Junta de Castilla León and European social fund PhD fellowship.** 4 year. *[k€ 62.4]*
+- 2007   **Spanish Ministry of Education and Science Departamental collaboration fellowship** *[k€ 2,5]*
 
 ## **Awards** :trophy:
 ***
