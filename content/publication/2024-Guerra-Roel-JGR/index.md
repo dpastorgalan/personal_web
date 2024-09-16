@@ -29,7 +29,7 @@ publishDate: "2024-09-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 'Journal of Geophysical Research: Solid Earth, 129, e2024JB029239. https://doi.org/10.1029/ 2024JB029239'
+publication: 'Journal of Geophysical Research: Solid Earth, 129, e2024JB029239. https://doi.org/10.1029/2024JB029239'
 publication_short: 'JGR-SE, 129, e2024JB029239'
 
 abstract: Curved mountain belts are spectacular natural features that contain crucial 3D information about the tectonic evolution of orogenic systems in the absence of other kinematic markers. The Mesozoic units exposed in the Mexican Fold and Thrust Belt in northeastern Mexico show a striking curvature, whose kinematic history has not been studied. The existing tectonic models of the region simply assumed the shape of the tectonic units as an inherent feature to the orogen. We investigated the kinematic history of this curvature through paleomagnetism and rock magnetism analyses, coupled with an exhaustive review of available published literature. The studied data sets indicate a protracted history of (re)magnetizations that occurred during the Late Jurassic-Paleocene times at least during the Late Jurassic, Cretaceous and early Eocene. More significantly, they show significant counterclockwise rotations in the northern flank of the curvature and moderate clockwise vertical axis rotations along its southern flank. This data set suggests that the Sierra Madre Oriental was a linear belt that experienced oroclinal bending or buckling during the Cretaceous to early Eocene period (120–50 Ma).
