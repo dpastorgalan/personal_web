@@ -55,20 +55,18 @@ I’ve honored The Fab Four on two occasions: once on the 50th anniversary of Sg
 
 1. [Sgt. Pepper's](/publication/2017-pastor-galan-jibg/)  
  
-    ![Pepper's](/static/media/2017-SgtPeppers.png)
+    ![Pepper's](/media/2017-SgtPeppers.png)
 
-Listen to Sgt Pepper's
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/es/album/sgt-peppers-lonely-hearts-club-band-remix/1573250333?l=en-GB"></iframe>
 
 2. [The Let it Be paper](https://danielpastorgalan.com/publication/2020-pastor-galan-se/)
 
-    ![Let it be](/static/media/2020-Beatles1)
+    ![Let it be](/media/2020-Beatles1)
 
-    ![Let it be](/static/media/2020-Beatles2)
+    ![Let it be](/media/2020-Beatles2)
 
-    ![Let it be](/static/media/2020-Beatles3)   
+    ![Let it be](/media/2020-Beatles3)   
 
-    ![Let it be](/static/media/2020-Beatles4)
+    ![Let it be](/media/2020-Beatles4)
 
     ![Whisper words of wisdom, Let it be](/static/media/2020-Beatles)
 
