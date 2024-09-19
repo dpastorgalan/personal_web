@@ -68,7 +68,7 @@ I’ve honored The Fab Four on two occasions: once on the 50th anniversary of Sg
 
     ![Let it be](/media/2020-Beatles4.png)
 
-    ![Whisper words of wisdom, Let it be](/static/media/2020-Beatles.png)
+    ![Whisper words of wisdom, Let it be](/media/2020-Beatles.png)
 
 ##### 2. [Dylan's Nobel](/publication/2019-pastor-galan-igr/)
 
