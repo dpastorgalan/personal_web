@@ -180,7 +180,7 @@ A free online event where school students get to meet and interact with geoscien
 - 2023-06-28 - [Press note on Geo-Sports.com - Canal UGR](https://canal.ugr.es/noticia/la-universidad-de-granada-participa-en-el-proyecto-que-descubre-la-geologia-del-tour-de-france/) In Spanish [PDF download](/media/2023-06-28-Geosports.pdf)
 - 2022-11-01 - [Leonardo network](https://www.redleonardo.es/beneficiario/daniel-pastor-galan/)
 - 2022-10-05 - [Leonardo grant on Ideal - Granada newspaper](https://www.ideal.es/miugr/tres-investigadores-40000-20221005221425-nt.html)
-- 2022-09-30 - [Press note Leonardo grants from BBVA](https://canal.ugr.es/noticia/tres-investigadores-de-la-ugr-obtienen-becas-leonardo-en-la-convocatoria-de-2022/)(PDF download)(/media/2022-09-30-Leonardo.pdf)
+- 2022-09-30 - [Press note Leonardo grants from BBVA](https://canal.ugr.es/noticia/tres-investigadores-de-la-ugr-obtienen-becas-leonardo-en-la-convocatoria-de-2022/)[PDF download](/media/2022-09-30-Leonardo.pdf)
 - 2021-12-13 - [Interview for Adelantado de Segovia (local newspaper from my hometown)](https://www.eladelantado.com/segovia/mejor-preguntar-que-responder/) In Spanish [PDF download](/media/2021-12-13-Adelantado.pdf)
 - 2021-01-27 - [Nikkei article about Ganbat's paper on Tanzanian Paleoproterozoic](https://r.nikkei.com/article/DGXLRSP603970_27012021000000?s=6) In Japanese.
 - 2020-01-22 - [Sendai, Living on the edge!](https://blogs.egu.eu/divisions/ts/2020/01/22/sendai-living-on-the-edge/) Blog post at EGU Tectonics and Structural geology blog.
