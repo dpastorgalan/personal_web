@@ -72,13 +72,13 @@ I’ve honored The Fab Four on two occasions: once on the 50th anniversary of Sg
 
 ##### 2. [Dylan's Nobel](/publication/2019-pastor-galan-igr/)
 
-    ![It ain't me babe](/media/2019-Dylan.png)
+  ![It ain't me babe](/media/2019-Dylan.png)
 
 I celebrated more that Dylan got a Nobel than Dylan himself. That was not difficult, of course.
 
 ##### 3. [Tom Petty's goodbye](/publication/2018-pastor-galan-tecto/)
 
-    ![Refugee](/media/2018-TomPetty.png)
+  ![Refugee](/media/2018-TomPetty.png)
 
 For a minute I thought that the editorial stuff of AGU did not want me to have the magnificent Petty in the paper.
 
