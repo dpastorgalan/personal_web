@@ -102,8 +102,8 @@ And I got the best possible answer ever. Who knows, knows.
 
 ##### 6. [Cornell in our hearts](/publication/2021-pastor-galan-epsl/)
 
-  ![Starman](/media/2021-Cornell.png)
+  ![Go on and save yourself](/media/2021-Cornell.png)
 
 ##### 6. [Watts drumroll forever](/publication/2022-pastor-galan-esr/)
 
-  ![Starman](/media/2021-CharlieWattswie.png)
+  ![Let's spend the night together](/media/2022-Watts.png)
