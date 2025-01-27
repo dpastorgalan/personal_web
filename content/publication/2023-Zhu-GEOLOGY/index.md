@@ -1,79 +1,81 @@
-+++
-title = "Do microcontinents nucleate subduction initiation?"
-date = 2023-05-25
-draft = false
+---
+title: Do microcontinents nucleate subduction initiation?
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mingshuai Zhu", "Zhiyong Yan", "Daniel Pastor-Galán", "Lin Chen", "Laicheng Miao", "Fuqin Zhang", "Shun Li", "Shunhu Yang"]
+authors:
+- Mingshuai Zhu
+- Zhiyong Yan
+- admin
+- Lin Chen
+- Laicheng Miao 
+- Fuqin Zhang
+- Shun Li
+- Shuhu Yang
+
+author_notes:
+- ""
+- ""
+- ""
+date: "2024-01-01T00:00:00Z"
+doi: "10.1130/G51222.1"
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2023-04-28T00:00:00Z"
 
 # Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference pape
-# 2 = Journal article
-# 3 = Manuscript
-# 4 = Report
-# 5 = Book
-# 6 = Book section
-publication_types = ["2"]
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["2"]
 
-# Publication name and optional abbreviated version.
-publication = "Geology, May 2023, DOI:10.1130/G51222.1"
-publication_short = "Geology, 2023"
+# Publication name and optional abbreviated publication name.
+publication: "Geology, 51 (7): 668–672, DOI: 10.1130/G51222.1"
+publication_short: "Geology, 51 (7): 668–672"
 
-# Abstract and optional shortened version.
-abstract = "Subduction initiation is a pivotal process in plate tectonics. Models of subduction initiation include the collapse of passive margins, oceanic transform faults, inversion of oceanic core complexes, and ridge failure but have ignored the potential effects of continental crust relicts within the oceanic crust. In this paper, we explore the role of microcontinents on subduction initiation through two-dimensional thermo-mechanical numerical modeling. We consider three scenarios with variable ages of oceanic crust surrounding the microcontinent and parametrically examine the microcontinent characteristics (size, crustal thickness, thermal gradient, and rheology), oceanic plate age, and convergence rates. Results suggest that moderate-size (≥300 km) microcontinents can nucleate subduction initiation at the junction between continental and oceanic plates. A large part of the microcontinent would be dragged into the subduction zone, and the subsequent asthenosphere upwellings would incorporate part of the microcontinent. Our numerical models add a new hypothetical scenario for subduction initiation, especially for those places where a young and buoyant plate subducts beneath an older and denser oceanic plate. Moreover, they can explain the origin of exotic crust materials and ultrahigh-pressure minerals in supra–subduction zone ophiolites."
+abstract: Subduction initiation is a pivotal process in plate tectonics. Models of subduction initiation include the collapse of passive margins, oceanic transform faults, inversion of oceanic core complexes, and ridge failure but have ignored the potential effects of continental crust relicts within the oceanic crust. In this paper, we explore the role of microcontinents on subduction initiation through two-dimensional thermo-mechanical numerical modeling. We consider three scenarios with variable ages of oceanic crust surrounding the microcontinent and parametrically examine the microcontinent characteristics (size, crustal thickness, thermal gradient, and rheology), oceanic plate age, and convergence rates. Results suggest that moderate-size (≥300 km) microcontinents can nucleate subduction initiation at the junction between continental and oceanic plates. A large part of the microcontinent would be dragged into the subduction zone, and the subsequent asthenosphere upwellings would incorporate part of the microcontinent. Our numerical models add a new hypothetical scenario for subduction initiation, especially for those places where a young and buoyant plate subducts beneath an older and denser oceanic plate. Moreover, they can explain the origin of exotic crust materials and ultrahigh-pressure minerals in supra–subduction zone ophiolites.
 
-abstract_short = ""
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-image_preview = ""
+tags:
+- Subduction initiation
+- Microcontinents
+- Subduction
+- Numerical modeling
+- Sea of China
 
-# Is this a selected publication? (true/false)
-selected = false
+featured: false
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["deep-learning"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects = ["internal-project"]
-
-# Tags (optional).
-#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Subduction", "Subduction initiation", "Microcontinent", "Ophiolite", "Tectonics"]
-
-# Links (optional).
-url_pdf = ""
-#url_preprint = "#"
-#url_code = "#"
-#url_dataset = "#"
-#url_project = "#"
-#url_slides = "#"
-#url_video = "#"
-#url_poster = "#"
-url_source = "https://doi.org/10.1130/G51222.1"
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Link", url = "https://doi.org/10.1130/G51222.1"}]
-
-# Digital Object Identifier (DOI)
-doi = "10.1130/G51222.1"
-
-# Does this page contain LaTeX math? (true/false)
-math = false
+# links:
+# - name: ""
+#   url: ''
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: 'www.doi.org/10.1130/G51222.1'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-[image]
- # Caption (optional)
- #  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+image:
+  caption: '(A) Cartoon showing the origin of crustal materials and ultrahigh-pressure minerals in supra–subduction zone (SSZ) ophiolites. (B) Model M2 snapshot at 5.9 m.y. The purple and blue arrows represent the left and right directions of the subduction initiation, respectively.'
+  focal_point: ""
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
-  
-[header]
-image = ""
-caption = ""
-+++
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
