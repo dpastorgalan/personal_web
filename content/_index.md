@@ -211,7 +211,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: true
   - block: collection
     id: fieldwork
     content:
