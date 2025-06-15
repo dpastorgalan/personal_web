@@ -1,6 +1,6 @@
 ---
 title: Catalina Galán
-summary: PhD student 2025
+summary: PhD student 2025-
 tags:
   - Present
   - PhD

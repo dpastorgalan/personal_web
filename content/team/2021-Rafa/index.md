@@ -1,8 +1,8 @@
 ---
 title: Rafael Guerra
-summary: PhD student 
+summary: PhD student 2021-2024
 tags:
-  - Present
+  - Past
   - PhD
 date: '2021-04-27T00:00:00Z'
 

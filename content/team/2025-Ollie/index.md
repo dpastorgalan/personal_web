@@ -1,6 +1,6 @@
 ---
 title: Oliver Ross
-summary: PhD student 2025
+summary: PhD student 2025-
 tags:
   - Present
   - PhD
