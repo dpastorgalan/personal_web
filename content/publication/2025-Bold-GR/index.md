@@ -9,7 +9,7 @@ authors:
 - Yasuhito Osanai
 
 author_notes:
-- 'PhD Student'
+- "PhD Student"
 - ""
 - ""
 date: "2025-11-01T00:00:00Z"
@@ -25,8 +25,8 @@ publishDate: "2025-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Gondwana Research, Volume 147, November 2025, Pages 276-300, DOI: 10.1016/j.gr.2025.06.023"
-publication_short: "Gondwana Research, 2025, 276-300"
+publication: 'Gondwana Research, Volume 147, November 2025, Pages 276-300, DOI: 10.1016/j.gr.2025.06.023'
+publication_short: 'Gondwana Research, 2025, 276-300'
 
 abstract: The Central Asian Orogenic Belt, situated between the Siberian, Tarim, and North China cratons, contains three major collages, including the Mongolian Collage at its center. However, as part of the Mongolian Collage, the tectono-magmatic history of the Ereendavaa Block in northeastern Mongolia remains largely unknown. In this study, we present detailed zircon U–Pb geochronological and geochemical data from granitoids in the Ereendavaa Block, review existing data from other microcontinents within the Mongolian Collage, and integrate these findings to investigate its overall tectono-magmatic evolution. Our results reveal seven distinct magmatic episodes in the granitoids: Tonian (∼880 Ma), late Ediacaran (∼540 Ma), early Ordovician (∼470 Ma), early Silurian (∼440 Ma), late Triassic (∼220 Ma), early Jurassic (∼190 Ma), and middle Jurassic (∼170 Ma). In addition, we identify three magmatic events from inherited zircons within the granitoids. The geochemistry of these granitoids indicates a variety of tectonic settings, predominantly forming in continental extension and arc-related environments. The spatial distribution of coeval magmatic and metamorphic events from ∼880 Ma to ∼440 Ma, along with older magmatic stages in microcontinents of the Mongolian Collage, suggests that the Ereendavaa Block evolved in parallel with other microcontinents within the Mongolian Collage. This evolution likely began near the Siberian Craton earlier than ∼880 Ma and continued until slightly later than ∼440 Ma, when the microcontinents within the Mongolian Collage may have drifted away from the Siberian Craton. Late Triassic to Middle Jurassic granitoids constrain the timing of the Mongol-Okhotsk Ocean closure in the central segment of the Mongol-Okhotsk Belt. Coeval Late Triassic formations along the southern margin of the Mongol-Okhotsk Belt support a scissor-like closure model progressing from its central to eastern segments, thereby questioning the widely accepted notion of a Triassic closure in the western segment.
 
