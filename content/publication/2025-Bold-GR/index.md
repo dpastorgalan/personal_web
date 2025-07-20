@@ -52,7 +52,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1016/j.gr.2025.06.023'
+url_source: 'www.doi.org/10.1016/j.gr.2025.06.023'
 url_video: ''
 
 # Featured image
