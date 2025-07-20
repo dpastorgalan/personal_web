@@ -104,6 +104,6 @@ And I got the best possible answer ever. Who knows, knows.
 
   ![Go on and save yourself](/media/2021-Cornell.png)
 
-##### 6. [Watts drumroll forever](/publication/2022-pastor-galan-esr/)
+##### 7. [Watts drumroll forever](/publication/2022-pastor-galan-esr/)
 
   ![Let's spend the night together](/media/2022-Watts.png)
