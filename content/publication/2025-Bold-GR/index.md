@@ -9,11 +9,11 @@ authors:
 - Yasuhito Osanai
 
 author_notes:
-- "PhD Student"
+- PhD Student
 - ""
 - ""
-date: "2025-11-01T00:00:00Z"
-doi: "10.1016/j.gr.2025.06.023"
+date: 2025-11-01T00:00:00Z
+doi: 10.1016/j.gr.2025.06.023
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-07-01T00:00:00Z"
