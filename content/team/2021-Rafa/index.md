@@ -34,9 +34,13 @@ url_video: ''
 
 Rafa is working with paleomagnetic and structural data from the Sierra Madre Oriental in México. The results are an impressive series of vertical axis rotations that define an orocline that changes dramatically the way we have seen the Pacific tectonics. After a rather hectic and unlucky begining of a thesis that includes a global pandemic and the tragic murder of his supervisor and my dear friend Roberto Molina-Garza.
 
-The first Rafa's paper was published in 2024 in JGR: Solid Earth, and he is at present working to finish his PhD along other publications.
+The first Rafa's paper was published in 2024 in JGR: Solid Earth. He published a second paper in Tectonics in 2025, the same year he defended his PhD.
 
 Paper list associated with his PhD:
 ## - 2024
 [Guerra-Roel et al., 'The Sierra Madre Oriental Orocline: Paleomagnetism of the Nazas Province in NE Mexico'
 ](/publication/2024-guerra-roel-jgr/)
+
+## - 2025
+[Guerra-Roel et al., 'Bending the Sierra Madre Oriental":" A Paleocene Orocline'
+](/publication/2025-guerra-roel-tect/)

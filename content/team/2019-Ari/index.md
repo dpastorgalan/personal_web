@@ -32,4 +32,4 @@ url_video: ''
 # slides: example
 ---
 
-Ari finished her Ph.D. at the petrotectonics group of the CNEAS, Tohoku University. She has studied igneous rocks from multiple views, gechemistry, geochronology and paleomagnetism. Her studies focused in very different times, Proterozoic of Africa, Paleozoic of Mongolia and Meso-Cenozoic from Japan. She produced a bunch of excellent papers from her Ph.D. thesis and there are more to come. She got a post-doc position at HKU and after that she will start a new postdoc position at the Göttingen!
+Ari finished her Ph.D. at the petrotectonics group of the CNEAS, Tohoku University. She has studied igneous rocks from multiple views, gechemistry, geochronology and paleomagnetism. Her studies focused in very different times, Proterozoic of Africa, Paleozoic of Mongolia and Meso-Cenozoic from Japan. She produced a bunch of excellent papers from her Ph.D. thesis and there are more to come. She got a post-doc position at HKU. After she started a new postdoc position at Göttingen University.
