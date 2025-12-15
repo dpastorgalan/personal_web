@@ -44,14 +44,14 @@ sections:
           date_start: '2021-05-01'
           date_end: '2024-01-08'
           description: ''
-        - title: Assistant Professor (助教) of Tectonics
+        - title: Assistant Professor (助教) at FRIS
           company: Tohoku University
           company_url: www.tohoku.ac.jp
           company_logo: 'org-tohoku'
           location: Sendai
           date_start: '2019-05-01'
-          date_end: ''
-          description: ''
+          date_end: '2026-05-31'
+          description: 'Frontier Research Institute for Interdisciplinary Sciences. Asst. Prof. of Tectonics'
         - title: JSPS Fellow
           company: Tohoku University
           company_url: www.tohoku.ac.jp
@@ -59,7 +59,7 @@ sections:
           location: Sendai
           date_start: '2016-09-29'
           date_end: '2018-09-29'
-          description: ''
+          description: 'Center for North East Asian Studies. Postdoc in Geochemistry department'
         - title: Postdoctoral Fellow
           company: Utrecht University
           company_url: www.uu.nl
@@ -67,7 +67,7 @@ sections:
           location: Utrecht
           date_start: '2013-01-01'
           date_end: '2016-07-31'
-          description: ''
+          description: 'Paleomagnetic laboratory "Fort Hoofddijk"'
         - title: PhD Student
           company: Salamanca University
           company_url: www.usal.es
