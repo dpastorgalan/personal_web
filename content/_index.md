@@ -203,7 +203,9 @@ sections:
         - name: BSc
           tag: 'BSc'         
         - name: PhD
-          tag: 'PhD' 
+          tag: 'PhD'
+        - name: Postdoc
+          tag: 'Postdoc'
         - name: All
           tag: '*' 
     design:
