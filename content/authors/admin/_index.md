@@ -32,7 +32,7 @@ interests:
   - Geodynamics
   - Earth History
   - Paleomagnetism
-s
+
 # Education to show in About widget
 education:
   courses:
