@@ -1,5 +1,5 @@
 ---
-title: From Rheic to Paleotethys ":" Subduction history of the Shanderman Eclogites (NW Iran) 
+title: Tectono-magmatic evolution of the Mongolian Collage with new evidence from the Ereendavaa Block
 authors:
 - Munkhdelger Bold
 - Tatsuki Tsujimori
