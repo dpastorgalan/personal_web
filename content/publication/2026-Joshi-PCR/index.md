@@ -1,5 +1,5 @@
 ---
-title: A ∼1.6 Ga accretionary event in the polymetamorphic Lesser Himalaya, India: Insights into late-stage assembly of the Columbia supercontinent
+title: 'A ∼1.6 Ga accretionary event in the polymetamorphic Lesser Himalaya, India: Insights into late-stage assembly of the Columbia supercontinent'
 authors:
 - Mallickarjun Joshi
 - Biraja P. Das
