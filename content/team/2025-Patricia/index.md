@@ -36,4 +36,4 @@ processes to better understand their dynamics and predict their impacts in real-
 
 This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
 
-![image](media/icons/brands/FMFlogo.png)
+![image](/images/logo/FMFlogo.png)
