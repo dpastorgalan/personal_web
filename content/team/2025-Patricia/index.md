@@ -33,3 +33,7 @@ url_video: ''
 ---
 Patricia will test investigate with numerical models if we can learn (1) how tectonic settings such as subduction, delamination, collision, and extension control the pathways of mantle fluids; (2) What roles mantle plumes and instabilities play in driving fluid flow in the absence of plate movement; and to simulate these
 processes to better understand their dynamics and predict their impacts in real-world tectonic settings?
+
+This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
+
+![image](media/icons/brands/FMFlogo.png)
