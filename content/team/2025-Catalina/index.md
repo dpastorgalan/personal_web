@@ -32,3 +32,7 @@ url_video: ''
 #slides: example
 ---
 Catalina is going to do a PhD to determine the origin and age of fluid transport events by combing well establish isotope geochemistry, gechronology and novel paleomagnetic analyses.
+
+This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
+
+![image](FMFlogo.png)

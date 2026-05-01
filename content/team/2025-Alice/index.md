@@ -32,3 +32,7 @@ url_video: ''
 #slides: example
 ---
 Alice joined the ForMovFluid Team to study the role of long lived plate boundaries and other lithospheric scale structures on fluid flow. For such she will have to reconstruct plate motions in deep time! Welcome to the team.
+
+This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
+
+![image](FMFlogo.png)

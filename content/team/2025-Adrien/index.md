@@ -31,4 +31,8 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Adrien will investigate the origins, pathways and properties of fluids that contributed to the formation of hydrothermal systems in key forelands regions of Pangaea. He will try to constrain the tectonic and thermal processes governing fluid migration in foreland and intraplate setting, by integrating studies on structural geology, geochemistry, palaeothermometry and palaeomagnetism
+Adrien will investigate the origins, pathways and properties of fluids that contributed to the formation of hydrothermal systems in key forelands regions of Pangaea. He will try to constrain the tectonic and thermal processes governing fluid migration in foreland and intraplate setting, by integrating studies on structural geology, geochemistry, palaeothermometry and palaeomagnetism.
+
+This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
+
+![image](FMFlogo.png)

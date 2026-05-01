@@ -32,3 +32,7 @@ url_video: ''
 #slides: example
 ---
 Oliver PhD will combine plate reconstructions and machine learning to understand the causes and consequences of fluid flow within superplates.
+
+This project is part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
+
+![image](FMFlogo.png)
