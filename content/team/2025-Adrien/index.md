@@ -31,7 +31,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Adrien participated in the MSCA-DN ForMovFluid as part of the team in the CSIC. He investigated the origins, pathways and properties of fluids that contributed to the formation of hydrothermal systems in key forelands regions of Pangaea.
+Adrien Duringer joined the CSIC group as a PhD candidate in the MSCA-DN ForMovFluid to work on the first version of the project #15. Less than one year after, Adrien Duringer chose to leave the program. For additional information regarding his time in the group, I would be happy to provide further details upon request.
 
 His research was part of the ForMovFluid MSCA-ND funded by the European Union under Horizon (HORIZON-MSCA-DN-01-101168931).
 
