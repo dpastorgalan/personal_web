@@ -107,3 +107,7 @@ And I got the best possible answer ever. Who knows, knows.
 ##### 7. [Watts drumroll forever](/publication/2022-pastor-galan-esr/)
 
   ![Let's spend the night together](/media/2022-Watts.png)
+
+##### 8. [Jeff Beck and his riff-driven plate motion](/publication/2025-pastor-galan-GSAB/)
+
+  ![Beckola](/media/2025-Beck.png)
