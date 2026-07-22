@@ -10,7 +10,7 @@ main:
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
-    - name: Team
+  - name: Team
     url: '#team'
     weight: 20
   - name: Fieldwork
@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 40
   - name: Publications
-    url: 'www.danielpastorgalan.eu/publication/'
+    url: './publication/'
     weight: 50
   - name : Curriculum Vitae
     url : '/post/cv/'
