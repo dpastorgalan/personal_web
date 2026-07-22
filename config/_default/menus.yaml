@@ -20,7 +20,7 @@ main:
     url: '#contact'
     weight: 40
   - name: Publications
-    url: './publication/'
+    url: 'www.danielpastorgalan.eu/publication/'
     weight: 50
   - name : Curriculum Vitae
     url : '/post/cv/'
