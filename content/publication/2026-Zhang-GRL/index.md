@@ -1,5 +1,5 @@
 ---
-title: 'Cadomian Igneous Rocks in the Retroarc Foreland Domains of the Narcea Antiform'
+title: 'Late Carboniferous Paleomagnetism From North Qiangtang Block Reveals a Multibranched Paleo-Tethys Ocean'
 authors:
 - Jiahui Zhang
 - Xin Cheng
