@@ -169,8 +169,7 @@ sections:
       title: Recent Publications
       text:
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      
+      count: 2 
       filters:
         folders:
           - publication
