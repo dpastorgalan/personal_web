@@ -167,8 +167,7 @@ sections:
     id: publication
     content:
       title: Recent Publications
-      text: |-
-        [SEE ALL PUBLICATIONS](./publication/)
+      text:
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       
@@ -178,7 +177,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: portfolio
     id: team
     content:
