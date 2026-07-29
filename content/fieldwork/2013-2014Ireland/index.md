@@ -69,7 +69,7 @@ image:
 ---
 One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greater Cantrabrian Orocline. We did a collection of rocks from the Munster Basin, SW Ireland. Here are some pics about these fieldtrips.
 
-[Publication associated to these fieldtrips](./publication/2015-pastor-galan-epsl/)
+[Publication associated to these fieldtrips](/publication/2015-pastor-galan-epsl/)
 
 
 ### I am reconsidering using external apps for the photos. In the meantime you can still check the pics [HERE](https://goo.gl/photos/kx1hiku9UXAC9QXs6)
