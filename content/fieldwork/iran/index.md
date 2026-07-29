@@ -70,5 +70,6 @@ image:
 #  - example
 ---
 One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Talesh in NW Iran. Here are some pics about these fieldtrips.
-## Some photos from the Talesh [HERE](https://photos.app.goo.gl/tStHy7G2GcAHZoBh8)
-## and also [HERE] (https://photos.app.goo.gl/EdSnxWcFDCHGfMWm9)
+
+### Some photos from the Talesh [HERE](https://photos.app.goo.gl/tStHy7G2GcAHZoBh8)
+### and also [HERE] (https://photos.app.goo.gl/EdSnxWcFDCHGfMWm9)

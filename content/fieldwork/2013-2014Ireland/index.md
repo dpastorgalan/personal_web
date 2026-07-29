@@ -12,8 +12,8 @@ address:
   postcode: ''
   country: Ireland
 
-summary: Fieldwork in Ireland to study the Greated Cantabrian Orocline
-abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
+summary: Fieldwork in Ireland to study the Greater Cantabrian Orocline
+abstract: One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greater Cantrabrian Orocline. Here are some pics about these fieldtrips.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -67,6 +67,9 @@ image:
 #projects:
 #  - example
 ---
-One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
+One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greater Cantrabrian Orocline. We did a collection of rocks from the Munster Basin, SW Ireland. Here are some pics about these fieldtrips.
 
-## Some photos from May 2014 [HERE](https://goo.gl/photos/kx1hiku9UXAC9QXs6)
+[Publication associated to these fieldtrips](./publication/2015-pastor-galan-epsl/)
+
+
+### I am reconsidering using external apps for the photos. In the meantime you can still check the pics [HERE](https://goo.gl/photos/kx1hiku9UXAC9QXs6)

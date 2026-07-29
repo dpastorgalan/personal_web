@@ -67,6 +67,6 @@ image:
 #projects:
 #  - example
 ---
-One of the projects I developed as a postdoc in Utrecht was about the curvature and kinematics of the Greated Cantrabrian Orocline. Here are some pics about these fieldtrips.
+A couple of fieldtrip to the eastermost tip of Hokkaido to study the evolution of an intraoceanic arc (Nemuro-Olyutorsky) during the end of the Mesozoic to the Eocene. Enjoy the scenery.
 
-## You can see a collection of photos in [HERE](https://photos.app.goo.gl/3lMXB3OgB2fAfE2b2)
+### I am migrating the photo collections. In the meantime you can check them in [HERE](https://photos.app.goo.gl/3lMXB3OgB2fAfE2b2)
